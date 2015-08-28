@@ -80,34 +80,34 @@ msgid "Squared-Euclidian"
 msgstr ""
 
 msgid "Manhattan (City Block)"
-msgstr ""
+msgstr "Μανχάταν (City Block)"
 
 msgid "No Transformation"
-msgstr ""
+msgstr "Χωρίς μετασχηματισμό"
 
 msgid "Distance Measure"
-msgstr ""
+msgstr "Μέτρηση απόστασης"
 
 msgid "Clustering solution name:"
-msgstr ""
+msgstr "Όνομα Λύσης Ομαδοποίησης:"
 
 msgid "Plot Dendrogram"
-msgstr ""
+msgstr "Πλοκή Δενδρόγραμμα"
 
 msgid "Hierarchical Cluster Summary"
-msgstr ""
+msgstr "Ιεραρχική Περίληψη Συγκροτήματος"
 
 msgid "Select One Clustering Solution"
-msgstr ""
+msgstr "Επιλέξτε μια Λύση Συγκροτήματος"
 
 msgid "There are no hierachical clustering solutions"
-msgstr ""
+msgstr "Δεν υπάρχουν ιεραρχικές λύσεις ομαδοποίησης"
 
 msgid "No hierachical clustering solutions are associated with this data set."
-msgstr ""
+msgstr "Μη ιεραρχική ομαδοποίηση λύσεως που σχετίζονται με αυτό το σύνολο δεδομένων."
 
 msgid "A clustering solution has not been selected."
-msgstr ""
+msgstr "Μια λύση ομαδοποίησης δεν έχει επιλεχθεί."
 
 msgid "Append Cluster Groups to the Active Data Set"
 msgstr ""
