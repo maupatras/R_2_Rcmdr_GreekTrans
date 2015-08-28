@@ -161,55 +161,55 @@ msgid "Submit"
 msgstr "Υποβολή"
 
 msgid "Cut"
-msgstr ""
+msgstr "Αποκοπή"
 
 msgid "Copy"
-msgstr ""
+msgstr "Αντιγραφή"
 
 msgid "Paste"
-msgstr ""
+msgstr "Επικόλληση"
 
 msgid "Delete"
-msgstr ""
+msgstr "Διαγραφή"
 
 msgid "Find..."
-msgstr ""
+msgstr "Βρές ..."
 
 msgid "Select all"
-msgstr ""
+msgstr "Επιλογή όλων"
 
 msgid "Edit data set"
-msgstr ""
+msgstr "Επεξεργασία δεδομένων"
 
 msgid "View data set"
-msgstr ""
+msgstr "Προβολή δεδομένων"
 
 msgid "<No active dataset>"
-msgstr ""
+msgstr "<Κανένα ενεργό δεδομένο>"
 
 msgid "<No active model>"
-msgstr ""
+msgstr "<Κανένα ενεργό μοντέλο>"
 
 msgid "Data set:"
-msgstr ""
+msgstr "Σύνολο δεδομένων:"
 
 msgid "Model:"
-msgstr ""
+msgstr "Μοντέλο:"
 
 msgid "Script Window"
-msgstr ""
+msgstr "Skriptfenster"
 
 msgid "Output Window"
-msgstr ""
+msgstr "Ausgabefenster"
 
 msgid "Messages"
-msgstr ""
+msgstr "Μηνύματα"
 
 msgid "The rgl package is absent; 3D plots are unavailable."
-msgstr ""
+msgstr "Το πακέτο rlg απουσιάζει; Τα 3D-Plots δεν είναι διαθέσιμα."
 
 msgid "R Commander Version"
-msgstr ""
+msgstr "Έκδοση R Commander"
 
 msgid "First and last 5 warnings:"
 msgstr ""
