@@ -48,32 +48,33 @@ msgstr ""
 msgid "Hierarchical Clustering"
 msgstr ""
 
+
 msgid "Ward's Method"
-msgstr ""
+msgstr "Μέθοδος Ward"
 
 msgid "Single Linkage"
-msgstr ""
+msgstr "Ενιαίος Σύνδεσμος"
 
 msgid "Complete Linkage"
-msgstr ""
+msgstr "Πλήρης Σύνδεσμος"
 
 msgid "Average Linkage"
-msgstr ""
+msgstr "Mέσος Σύνδεσμος"
 
 msgid "McQuitty's Method"
-msgstr ""
+msgstr "Μέθοδος McQuitty"
 
 msgid "Median Linkage"
-msgstr ""
+msgstr "Διάμεσος Σύνδεσμος"
 
 msgid "Centroid Linkage"
-msgstr ""
+msgstr "Κεντροειδής Σύνδεσμος"
 
 msgid "Clustering Method"
-msgstr ""
+msgstr "Μέθοδος Ομαδοποίησης"
 
 msgid "Euclidean"
-msgstr ""
+msgstr "Ευκλείδεια"
 
 msgid "Squared-Euclidian"
 msgstr ""
