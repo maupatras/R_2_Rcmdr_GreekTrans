@@ -321,46 +321,46 @@ msgid "{\"Text Files\" {\".txt\" \".TXT\" \".dat\" \".DAT\" \".csv\" \".CSV\"}} 
 msgstr ""
 
 msgid "Variable names in file:"
-msgstr ""
+msgstr "Ονόματα μεταβλητών αρχείου:"
 
 msgid "Missing data indicator:"
-msgstr ""
+msgstr "Zeichen für fehlenden Wert:"
 
 msgid "Other"
-msgstr ""
+msgstr "Άλλα"
 
 msgid "Specify:"
-msgstr ""
+msgstr "Ορίστε:"
 
 msgid "Read Data From Package"
-msgstr ""
+msgstr "Διάβασε δεδομένα από τά πακέτα"
 
 msgid "Select package:"
-msgstr ""
+msgstr "Διαλέξτε πακέτο:"
 
 msgid "Data set %s does not exit"
-msgstr ""
+msgstr "Die Datenmatrix '%s' ist nicht vorhanden"
 
 msgid "You must select a package."
-msgstr ""
+msgstr "Πρέπει να επιλέξετε ένα πακέτο."
 
 msgid "You must select a data set."
-msgstr ""
+msgstr "Πρέπει να επιλέξετε ένα δεδομένο."
 
 msgid "Package (Double-click to select)"
-msgstr ""
+msgstr "Πακέτο (Διπλό κλίκ για επιλογή)"
 
 msgid "Data set (Double-click to select)"
-msgstr ""
+msgstr "Δεδομένο (Διπλό κλίκ για επιλογή)"
 
 msgid "OR"
-msgstr ""
+msgstr "Ή"
 
 msgid "Enter name of data set:"
-msgstr ""
+msgstr "Εισάγετε όνομα του δεδομένου:"
 
 msgid "Import SPSS Data Set"
-msgstr ""
+msgstr "Εισάγετε SPSS δεδομένο"
 
 msgid "{\"SPSS save files\" {\".sav\" \".SAV\"}} {\"SPSS portable files\" {\".por\" \".POR\"}} {\"All Files\" {\"*\"}}"
 msgstr ""
