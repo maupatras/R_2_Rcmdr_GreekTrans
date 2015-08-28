@@ -12,19 +12,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "KMeans Clustering"
-msgstr ""
+msgstr "K Μέσος όρος ομαδοποίησης"
 
 msgid "Variables (pick one or more)"
-msgstr ""
+msgstr "Mεταβλητές (eine oder mehrere)"
 
 msgid "No variables selected."
-msgstr ""
+msgstr "Καμία μεταβλητή δεν επιλέχθηκε."
 
 msgid "<all valid cases>"
-msgstr ""
+msgstr "<Όλες οι περιπτώσεις είναι έγκυρες>"
 
 msgid "Number of clusters:"
-msgstr ""
+msgstr "Αριθμός των ομαδοποιήσεων:"
 
 msgid "Number of starting seeds:"
 msgstr ""
