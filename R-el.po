@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: jfox@mcmaster.ca\n"
 "POT-Creation-Date: 2014-09-01 20:30:00\n"
 "PO-Revision-Date: 2014-10-08 12:28+0100\n"
-"Last-Translator: José Ramón Rueda <joseramon.rueda@ehu.es>\n"
+"Last-Translator: JosÃ© RamÃ³n Rueda <joseramon.rueda@ehu.es>\n"
 "Language-Team: EHU R UCA Project <joseramon.rueda@ehu.es>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "KMeans Clustering"
-msgstr "K-����� ���� ������������"
+msgstr "Ομαδοποίηση του KMeans "
 
 msgid "Variables (pick one or more)"
 msgstr "Aldagaiak (aukeratu bat edo gehiago)"
@@ -177,7 +177,7 @@ msgid "Delete"
 msgstr "Ezabatu"
 
 msgid "Find..."
-msgstr "Bilatu…"
+msgstr "Bilatuâ€¦"
 
 msgid "Select all"
 msgstr "Hautatu dena"
@@ -1548,7 +1548,7 @@ msgid "Install Missing Packages"
 msgstr "Instalatu falta diren paketeak"
 
 msgid "Browse..."
-msgstr "Arakatu…"
+msgstr "Arakatuâ€¦"
 
 msgid "Install Packages From:"
 msgstr "Instalatu paketeak hemendik:"
@@ -2408,7 +2408,7 @@ msgid "as PDF/Postscript/EPS..."
 msgstr "PDF/Postscript/EPS gisa..."
 
 msgid "3D RGL graph..."
-msgstr "3Dko RGL grafikoa…"
+msgstr "3Dko RGL grafikoaâ€¦"
 
 msgid "Save graph to file"
 msgstr "Gorde grafikoa fitxategian"
@@ -2450,7 +2450,7 @@ msgid "Breusch-Pagan test for heteroscedasticity..."
 msgstr "Breusch-Pagan-en heterozedastizitate-testa..."
 
 msgid "Durbin-Watson test for autocorrelation..."
-msgstr "Durbin-Watson-en autokorrelazio-testa…"
+msgstr "Durbin-Watson-en autokorrelazio-testaâ€¦"
 
 msgid "RESET test for nonlinearity..."
 msgstr "Ez-linealtasunaren RESET testa..."
@@ -2653,7 +2653,7 @@ msgid "Beta Distribution"
 msgstr "Beta banaketa"
 
 msgid "Shapes not specified."
-msgstr "Ez da zehaztu ‘Forma’ parametroa."
+msgstr "Ez da zehaztu â€˜Formaâ€™ parametroa."
 
 msgid "Shapes must be positive."
 msgstr "Forma parametroak positiboa izan behar du."
@@ -2689,7 +2689,7 @@ msgid "Gamma Distribution"
 msgstr "Gamma banaketa"
 
 msgid "Shape not specified."
-msgstr "Ez da zehaztu ‘Forma’ parametroa."
+msgstr "Ez da zehaztu â€˜Formaâ€™ parametroa."
 
 msgid "Shape must be positive."
 msgstr "Forma parametroak positiboa izan behar du."
@@ -3439,7 +3439,7 @@ msgstr ""
 "\" {\"*\"}}"
 
 msgid "Shapiro-Wilk test of normality..."
-msgstr "Shapiro-Wilk normalitate-testa…"
+msgstr "Shapiro-Wilk normalitate-testaâ€¦"
 
 msgid "Shapiro-Wilk Test of Normality"
 msgstr "Shapiro-Wilk normalitate-testa"
@@ -3612,10 +3612,10 @@ msgstr "Kokapena ez da zehaztu."
 # messages added to version 1.5-0
 #     "Models -> Stepwise model selection" dialog and menu item
 msgid "Stepwise model selection..."
-msgstr "‘Urratsez urrats’ eredua hautatzea..."
+msgstr "â€˜Urratsez urratsâ€™ eredua hautatzea..."
 
 msgid "Stepwise Model Selection"
-msgstr "‘Urratsez urrats’ eredua hautatu"
+msgstr "â€˜Urratsez urratsâ€™ eredua hautatu"
 
 msgid "Direction"
 msgstr "Norabidea"
@@ -3642,7 +3642,7 @@ msgid "AIC"
 msgstr "AIC"
 
 msgid "Subset model selection..."
-msgstr "Filtratu eredu-hautespena…"
+msgstr "Filtratu eredu-hautespenaâ€¦"
 
 msgid "Subset Model Selection"
 msgstr "Filtratu eredu-hautespena"
@@ -3670,7 +3670,7 @@ msgid "Maximum size:"
 msgstr "Gehienezko tamaina:"
 
 msgid "Merge data sets..."
-msgstr "Batu datu multzoak…"
+msgstr "Batu datu multzoakâ€¦"
 
 msgid "Merge Data Sets"
 msgstr "Batu datu multzoak"
@@ -3704,7 +3704,7 @@ msgstr ""
 "edo zutabe komunak "
 
 msgid "Aggregate variables in active data set..."
-msgstr "Gehitu aldagaiak datu multzo aktiboan…"
+msgstr "Gehitu aldagaiak datu multzo aktiboanâ€¦"
 
 msgid "Aggregate Observations"
 msgstr "Gehitu behaketak"
@@ -4028,7 +4028,7 @@ msgid "Resolution"
 msgstr "Bereizmena"
 
 msgid "from SAS xport file..."
-msgstr "SAS xport fitxategi batetik…"
+msgstr "SAS xport fitxategi batetikâ€¦"
 
 msgid "Data Set Name"
 msgstr "Datu multzoaren izena"
@@ -4054,7 +4054,7 @@ msgstr ""
 "letra minuskula bihurtu"
 
 msgid "from Excel file..."
-msgstr "Excel fitxategitik…"
+msgstr "Excel fitxategitikâ€¦"
 
 msgid "Import Excel Data Set"
 msgstr "Inportatu Excel -eko datu multzoa "
@@ -4192,13 +4192,13 @@ msgid "Open R Markdown file..."
 msgstr "Ireki R Markdown fitxategia..."
 
 msgid "Open knitr file..."
-msgstr "Ireki knitr fitxategia…"
+msgstr "Ireki knitr fitxategiaâ€¦"
 
 msgid "Save R Markdown file..."
-msgstr "Gorde R Markdown fitxategia…"
+msgstr "Gorde R Markdown fitxategiaâ€¦"
 
 msgid "Save knitr file..."
-msgstr "Gorde knitr fitxategia…"
+msgstr "Gorde knitr fitxategiaâ€¦"
 
 msgid "Save knitr file?"
 msgstr "Gorde knitr fitxategia?"
@@ -4213,7 +4213,7 @@ msgid "Save R Markdown file as..."
 msgstr "Gorde R Markdown fitxategia honela..."
 
 msgid "Save knitr file as..."
-msgstr "Gorde knitr fitxategia honela…"
+msgstr "Gorde knitr fitxategia honelaâ€¦"
 
 msgid "R Markdown file saved to"
 msgstr "R Markdown fitxategia hemen gorde da:"
@@ -4531,7 +4531,7 @@ msgid "Single-Sample Wilcoxon Test"
 msgstr "Wilcoxon-en lagin bakarreko testa"
 
 msgid "Single-sample Wilcoxon test..."
-msgstr "Wilcoxon-en lagin bakarreko testa…"
+msgstr "Wilcoxon-en lagin bakarreko testaâ€¦"
 
 msgid "Drop Unused Factor Levels"
 msgstr "Ezabatu erabili gabeko faktore-mailak"
