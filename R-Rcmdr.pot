@@ -113,52 +113,52 @@ msgid "Append Cluster Groups to the Active Data Set"
 msgstr ""
 
 msgid "Assigned cluster label:"
-msgstr ""
+msgstr "Όνομα της μεταβλητής"
 
 msgid "Find"
-msgstr ""
+msgstr "Βρίσκω"
 
 msgid "Regular-expression search"
-msgstr ""
+msgstr "Αναζήτηση τακτικής έκφρασης"
 
 msgid "Case sensitive"
-msgstr ""
+msgstr "Υπόθεση ευαισθησίας"
 
 msgid "Forward"
-msgstr ""
+msgstr "Μπροστά"
 
 msgid "Backward"
-msgstr ""
+msgstr "Πίσω"
 
 msgid "Search Direction"
-msgstr ""
+msgstr "Αναζήτηση Κατεύθηνσης"
 
 msgid "No search text specified."
-msgstr ""
+msgstr "Δεν υπάρχει κείμενο αναζήτησης που έχει καθορισθεί."
 
 msgid "Text not found."
-msgstr ""
+msgstr "Το κείμενο δεν βρέθηκε."
 
 msgid "Search for:"
-msgstr ""
+msgstr "Αναζήτηση για:"
 
 msgid "R Commander"
-msgstr ""
+msgstr "R Commander"
 
 msgid "Sourced:"
-msgstr ""
+msgstr "Προέλευση:"
 
 msgid "menu definition error:"
-msgstr ""
+msgstr "Εσφαλμένος ορισμός μενού:"
 
 msgid "Nothing is selected."
-msgstr ""
+msgstr "Δεν έχει επιλεχθεί κάτι."
 
 msgid "Clear window"
-msgstr ""
+msgstr "Καθαρισμός παραθύρου"
 
 msgid "Submit"
-msgstr ""
+msgstr "Υποβολή"
 
 msgid "Cut"
 msgstr ""
