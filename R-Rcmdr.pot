@@ -212,97 +212,65 @@ msgid "R Commander Version"
 msgstr "Έκδοση R Commander"
 
 msgid "First and last 5 warnings:"
-msgstr ""
+msgstr "Πρώτες και τελευταίες πέντε (5) προειδοποιήσεις:"
 
 msgid "ERROR:"
-msgstr ""
+msgstr "ΣΦΆΛΜΑ:"
 
 msgid "WARNING:"
-msgstr ""
+msgstr "ΠΡΟΕΙΔΟΠΟΊΗΣΗ:"
 
 msgid "ERROR"
-msgstr ""
+msgstr "ΣΦΆΛΜΑ"
 
 msgid "WARNING"
-msgstr ""
+msgstr "ΠΡΟΕΙΔΟΠΟΊΗΣΗ"
 
 msgid "NOTE"
-msgstr ""
+msgstr "ΣΗΜΕΊΩΣΗ"
 
 msgid "New Data Set"
-msgstr ""
+msgstr "Νέο σύνολο δεδομένων"
 
 msgid "Dataset"
-msgstr ""
+msgstr "Σύνολο δεδομένων"
 
 msgid "You must enter the name of a data set."
-msgstr ""
+msgstr "Πρέπει να δώσετε ένα όνομα για αυτό το δεδομένο."
 
 msgid "is not a valid name."
-msgstr ""
+msgstr "δεν είναι έγκυρο το όνομα."
 
 msgid "Data set"
-msgstr ""
+msgstr "Σύνολο δεδομένου"
 
 msgid "empty data set."
-msgstr ""
+msgstr "άδεια δεδομένα."
 
 msgid "Enter name for data set:"
-msgstr ""
+msgstr "Εισάγετε ένα όνομα δεδομένου:"
 
 msgid "There is only one dataset in memory."
-msgstr ""
+msgstr "Υπάρχει μονο ένα δεδομένο στην μνήμη."
 
 msgid "There are no data sets from which to choose."
-msgstr ""
+msgstr "Δεν υπάρχουν δεδομένα τα οποία μπορείτε να επιλέξετε."
 
 msgid "Select Data Set"
-msgstr ""
+msgstr "Επιλογή δεδομένου"
 
 msgid "Data Sets (pick one)"
-msgstr ""
+msgstr "Δεδομένα (επιλέξτε ένα)"
 
 msgid "Recode Variable"
-msgstr ""
+msgstr "Επανακωδικοποίηση μεταβλητής"
 
 msgid "Variable to recode (pick one)"
-msgstr ""
+msgstr "Μεταβλητή προς επανακωδικοποίηση (επιλέξτε μια)"
 
 msgid "variable"
-msgstr ""
+msgstr "Μεταβλητή."
 
-msgid "You must select a variable."
-msgstr ""
-
-msgid "No recode directives specified."
-msgstr ""
-
-msgid "Use only double-quotes (\" \") in recode directives"
-msgstr ""
-
-msgid "New variable name"
-msgstr ""
-
-msgid "Enter recode directives"
-msgstr ""
-
-msgid "Make new variable a factor"
-msgstr ""
-
-msgid "Compute New Variable"
-msgstr ""
-
-msgid "[factor]"
-msgstr ""
-
-msgid "Current variables (double-click to expression)"
-msgstr ""
-
-msgid "No expression specified."
-msgstr ""
-
-msgid "Variable"
-msgstr ""
 
 msgid "Expression to compute"
 msgstr ""
