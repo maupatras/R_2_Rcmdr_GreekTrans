@@ -566,46 +566,46 @@ msgid "A variable name is empty."
 msgstr "Το όνομα της μεταβλητής είναι άδειο."
 
 msgid "The following variable names are not valid:"
-msgstr ""
+msgstr "Τα παρόν ονόματα των μεταβλητών δεν είναι έγκυρα :"
 
 msgid "Variable names are not unique"
-msgstr ""
+msgstr "Τα ονόματα των μεταβλητών δεν είναι μοναδικά"
 
 msgid "Old Name"
-msgstr ""
+msgstr "Παλιό Όνομα"
 
 msgid "New name"
-msgstr ""
+msgstr "Νέο όνομα"
 
 msgid "Set Contrasts for Factor"
-msgstr ""
+msgstr "Ορισμός Αντιθέσεων για τους Παράγοντες"
 
 msgid "Treatment (dummy) contrasts"
-msgstr ""
+msgstr "Καταπολέμηση αντιθέσεων"
 
 msgid "Sum (deviation) contrasts"
-msgstr ""
+msgstr "Άθροισμα αντιθέσεων"
 
 msgid "Helmert contrasts"
-msgstr ""
+msgstr "Αντίθεση Helmert"
 
-msgid "Polynomial contrasts"
-msgstr ""
+msgid " Polynomial contrasts"
+msgstr "Αντίθεση πολυωνύμου"
 
 msgid "Other (specify)"
-msgstr ""
+msgstr "Άλλα (festlegen)"
 
 msgid "Contrasts"
-msgstr ""
+msgstr "Αντιθέσεις"
 
 msgid "Specify Contrasts"
-msgstr ""
+msgstr "Καθορίστε Αντιθέσεις"
 
 msgid "Enter Contrast Coefficients"
-msgstr ""
+msgstr "Εισάγετε Συντελεστές Αντιθέσεων"
 
 msgid "Contrast Name:"
-msgstr ""
+msgstr "Όνομα Αντίθεσης:"
 
 msgid "Number of valid entries in contrast matrix(%d)\nnot equal to number of levels (%d) * number of contrasts (%d)."
 msgstr ""
