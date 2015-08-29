@@ -484,89 +484,86 @@ msgid "Reorder Levels"
 msgstr "Αναδιάταξη Επιπέδων"
 
 
-msgid "Order of levels must include all integers from 1 to"
-msgstr ""
-
 msgid "Old Levels"
-msgstr ""
+msgstr "Παλιότερα Επίπεδα"
 
 msgid "New order"
-msgstr ""
+msgstr "Νέα εντολή"
 
 msgid "Make ordered factor"
-msgstr ""
+msgstr "Κάντε διέταξε παράγοντα"
 
 msgid "Standardize Variables"
-msgstr ""
+msgstr "Τυποποιήστε μεταβλητές"
 
 msgid "Export Active Data Set"
-msgstr ""
+msgstr "Εξαγωγή Ενεργού Δεδομένου"
 
 msgid "Write variable names:"
-msgstr ""
+msgstr "Γράψτε τα ονόματα των μεταβλητών:"
 
 msgid "Write row names:"
-msgstr ""
+msgstr "Γράψτε την σειρά ονομάτων:"
 
 msgid "Quotes around character values:"
-msgstr ""
+msgstr "Klammern um Zeichenketten:"
 
 msgid "Spaces"
-msgstr ""
+msgstr "Χώρος"
 
 msgid "Active dataset exported to file"
-msgstr ""
+msgstr "Ενεργό δεδομένο θα εξαχθεί στο αρχείο"
 
 msgid "Missing values:"
-msgstr ""
+msgstr "Τιμές που λείπουν:"
 
 msgid "Remove Missing Data"
-msgstr ""
+msgstr "Κατάργηση δεδομένων που λείπουν"
 
 msgid "Variables (select one or more)"
-msgstr ""
+msgstr "Μεταβλητές (επιλέξτε μια ή περισσότερες)"
 
 msgid "<same as active data set>"
-msgstr ""
+msgstr "<gleicher Name, wie die aktive Datenmatrix>"
 
 msgid "No variables were selected."
-msgstr ""
+msgstr "Καμία μεταβλητή δεν έχει επιλεχθεί."
 
 msgid "Include all variables"
-msgstr ""
+msgstr "Να συμπεριλάβει όλες τις μεταβλητές"
 
 msgid "Name for new data set"
-msgstr ""
+msgstr "Όνομα για νέο δεδομένο"
 
 msgid "Subset Data Set"
-msgstr ""
+msgstr "Υποσύνολο Δεδομένου"
 
 msgid "<all cases>"
-msgstr ""
+msgstr "<σε όλες τις περιπτώσεις>"
 
 msgid "New data set same as active data set."
-msgstr ""
+msgstr "Die neue Datenmatrix ist mit der aktiven Datenmatrix identisch"
 
 msgid "Subset expression"
-msgstr ""
+msgstr "Anweisung für dieTeilmenge"
 
 msgid "Set Case Names"
-msgstr ""
+msgstr "Ορίστε Ονόματα Περιπτώσεων"
 
 msgid "Select variable containing row names"
-msgstr ""
+msgstr "Επιλέξτε μεταβλητή που περιέχει σειρά από ονόματα"
 
 msgid "Case names must be unique."
-msgstr ""
+msgstr "Τα ονόματα των περιπτώσεων πρέπει να είναι μοναδικά."
 
 msgid "Rename Variables"
-msgstr ""
+msgstr "Μετανομασία Μεταβλητών"
 
 msgid "Variable Names"
-msgstr ""
+msgstr "Ονόματα Μεταβλητών"
 
 msgid "A variable name is empty."
-msgstr ""
+msgstr "Το όνομα της μεταβλητής είναι άδειο."
 
 msgid "The following variable names are not valid:"
 msgstr ""
