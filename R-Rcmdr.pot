@@ -436,22 +436,22 @@ msgstr "Όνομα επιπέδου"
 
 
 msgid "Name for factor"
-msgstr ""
+msgstr "Όνομα του παράγοντα"
 
 msgid "Bin a Numeric Variable"
-msgstr ""
+msgstr "Αποθήκευση μιας Αριθμητική Μεταβλητής "
 
 msgid "Variable to bin (pick one)"
-msgstr ""
+msgstr "Μεταβλητή για αποθήκευση (επιλέξτε μια)"
 
 msgid "Specify names"
-msgstr ""
+msgstr "Καθορίστε τα ονόματα"
 
 msgid "Numbers"
-msgstr ""
+msgstr "Αριθμοί"
 
 msgid "Ranges"
-msgstr ""
+msgstr "Σειρά"
 
 msgid "Equal-width bins"
 msgstr ""
