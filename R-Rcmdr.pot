@@ -453,44 +453,36 @@ msgstr "Αριθμοί"
 msgid "Ranges"
 msgstr "Σειρά"
 
-msgid "Equal-width bins"
-msgstr ""
-
-msgid "Equal-count bins"
-msgstr ""
-
-msgid "Natural breaks\n(from K-means clustering)"
-msgstr ""
-
 msgid "Binning Method"
-msgstr ""
+msgstr "Αποθηκευτική Μέθοδος"
 
 msgid "Bin Names"
-msgstr ""
+msgstr "Αποθήκευση Ονομάτων"
 
 msgid "Level names must be unique."
-msgstr ""
+msgstr "Τα ονόματα των επιπέδων πρέπει να είναι μοναδικά."
 
 msgid "Bin"
-msgstr ""
+msgstr "Αποθήκευση"
 
 msgid "Name"
-msgstr ""
+msgstr "Όνομα"
 
 msgid "Number of bins:"
-msgstr ""
+msgstr "Αριθμός των αποθηκεύσεων:"
 
 msgid "Reorder Factor Levels"
-msgstr ""
+msgstr "Αναδιάταξη Παράγοντα των Επιπέδων"
 
 msgid "Factor (pick one)"
-msgstr ""
+msgstr "Παράγοντας (επιλέξτε μια)"
 
 msgid "<same as original>"
-msgstr ""
+msgstr "<ίδιος σαν το αυθεντικό>"
 
 msgid "Reorder Levels"
-msgstr ""
+msgstr "Αναδιάταξη Επιπέδων"
+
 
 msgid "Order of levels must include all integers from 1 to"
 msgstr ""
