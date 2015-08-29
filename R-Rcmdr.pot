@@ -387,52 +387,53 @@ msgid "{\"STATA datasets\" {\".dta\" \".DTA\"}} {\"All Files\" {\"*\"}}"
 msgstr ""
 
 msgid "Convert dates to R format"
-msgstr ""
+msgstr "Μετατροπή ημερομηνίες σε R μορφή"
 
 msgid "Multiple missing types (>=Stata 8)"
-msgstr ""
+msgstr "Πολλαπλοί τύποι απουσιάζουν(>= Stata 8)"
 
 msgid "Convert underscore to period"
-msgstr ""
+msgstr "Μετατροπή υπογράμμισης σε περίοδο"
 
 msgid "Warn on missing labels"
-msgstr ""
+msgstr "Προειδοποίηση σε απούσες ετικέτες"
 
 msgid "Convert Numeric Variable to Factor"
-msgstr ""
+msgstr "Μετατροπή αριθμητικής μεταβλητής σε Παράγοντα"
 
 msgid "Variable (pick one)"
-msgstr ""
+msgstr "Μεταβλητή (επιλέξτε μια)"
 
 msgid "Supply level names"
-msgstr ""
+msgstr "Verwende Etiketten"
 
 msgid "Use numbers"
-msgstr ""
+msgstr "Χρησιμοποιείστε αριθμούς"
 
 msgid "Factor Levels"
-msgstr ""
+msgstr "Παράγοντας Επιπέδων"
 
 msgid "<same as variable>"
-msgstr ""
+msgstr "<ίδιο σαν μεταβλητή>"
 
 msgid "Number of levels (%d) too large."
-msgstr ""
+msgstr "Νούμερο των επιπέδων ('%d')είναι πολύ μεγάλη."
 
 msgid "Level Names"
-msgstr ""
+msgstr "Ονόματα Επιπέδων"
 
 msgid "Levels names are not unique."
-msgstr ""
+msgstr "Ονόματα επιπέδων δεν είναι μοναδικά."
 
 msgid "A level name is empty."
-msgstr ""
+msgstr "Το όνομα του επιπέδου είναι άδειο."
 
 msgid "Numeric value"
-msgstr ""
+msgstr "Αριθμητική αξία"
 
 msgid "Level name"
-msgstr ""
+msgstr "Όνομα επιπέδου"
+
 
 msgid "Name for factor"
 msgstr ""
