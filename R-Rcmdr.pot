@@ -940,7 +940,7 @@ msgid "Trim outliers"
 msgstr ""
 
 msgid "Show depths"
-msgstr ""
+msgstr "Εμφάνιση βάθους"
 
 msgid "Reverse negative leaves"
 msgstr ""
