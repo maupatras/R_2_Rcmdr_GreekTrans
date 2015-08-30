@@ -749,25 +749,26 @@ msgstr "Κατανομή F"
 
 
 msgid "Numerator degrees of freedom not specified."
-msgstr ""
+msgstr "Δεν έχει καθοριστεί αριμθητικός βαθμός ελευθερίας."
 
 msgid "Denominator degrees of freedom not specified."
-msgstr ""
+msgstr "Δεν έχει καθοριστεί παρονομαστής βαθμός ελευθερίας."
 
 msgid "Binomial Distribution"
-msgstr ""
+msgstr "Διωνυμική Κατανομή"
 
 msgid "Plot probability mass function"
-msgstr ""
+msgstr "Grafik der Wahrscheinlichkeitsfunktion"
 
 msgid "Poisson Distribution"
-msgstr ""
+msgstr "Κατανομή Poisson"
 
 msgid "Mean not specified."
-msgstr ""
+msgstr "Δεν έχει καθοριστεί ο μέσος όρος."
 
 msgid "mean"
-msgstr ""
+msgstr "μέσος όρος "
+
 
 msgid "{\"Script Files\" {\".R\"}} {\"All Files\" {\"*\"}}"
 msgstr ""
@@ -848,40 +849,62 @@ msgid "Default font"
 msgstr ""
 
 msgid "No packages available to load."
-msgstr ""
+msgstr "Κανένα πακέτο δεν είναι διαθέσιμο για φόρτοση ."
 
 msgid "Load Packages"
-msgstr ""
+msgstr "Φόρτοση Πακέτων"
 
 msgid "Packages (pick one or more)"
-msgstr ""
+msgstr "Πακέτα (επιλέξτε μια ή περισσότερες)"
 
 msgid "You must select at least one package."
-msgstr ""
+msgstr "Πρέπει να επιλέξετε τουλάχιστον ένα πακέτο."
 
 msgid "Packages loaded:"
-msgstr ""
+msgstr "Φόρτοση πακέτων:"
 
 msgid "Index Plot"
-msgstr ""
+msgstr "Index-Plot"
 
 msgid "You must select a variable"
-msgstr ""
+msgstr "Πρέπει να επιλέξετε μια μεταβλητή"
 
-msgid "Identify observations\nwith mouse"
+msgid ""
+"Identify observations\n"
+"with mouse"
 msgstr ""
+"Die Beobachtungen können mit \n"
+"der Maus ausgewählt werden"
 
 msgid "Spikes"
-msgstr ""
+msgstr "Αιχμές"
 
 msgid "Points"
-msgstr ""
+msgstr "Πόντοι"
 
 msgid "Histogram"
-msgstr ""
+msgstr "Ιστόγραμμα"
 
 msgid "<auto>"
-msgstr ""
+msgstr "<αυτόματα>"
+
+msgid "Frequency counts"
+msgstr "Μέτρηση συχνότητας"
+
+msgid "Percentages"
+msgstr "Ποσοστά"
+
+msgid "Densities"
+msgstr "Πυκνότητες"
+
+msgid "Axis Scaling"
+msgstr "Skalierung der Achse"
+
+msgid "Stem and Leaf Display"
+msgstr "Stamm-Blatt Diagramm"
+
+msgid "Automatic"
+msgstr "Αυτόματο"
 
 msgid "Frequency counts"
 msgstr ""
