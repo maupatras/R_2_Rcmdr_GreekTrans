@@ -614,73 +614,73 @@ msgid "Contrast matrix is not of full column rank"
 msgstr ""
 
 msgid "Contrast names must be unique"
-msgstr ""
+msgstr "Τα ονόματα των Αντιθέσεων πρέπει να είναι μοναδικά"
 
 msgid "Normal Quantiles"
-msgstr ""
+msgstr "Κανονικά ποσοστημόρια"
 
 msgid "No probabilities specified."
-msgstr ""
+msgstr "Δεν έχει καθοριστεί καμία πιθανότητα."
 
 msgid "Probabilities"
-msgstr ""
+msgstr "Πιθανότητες"
 
 msgid "mu (mean)"
-msgstr ""
+msgstr "µ (Erwartungswert)"
 
 msgid "sigma (standard deviation)"
-msgstr ""
+msgstr "sigma (Standardabweichung)"
 
 msgid "Lower tail"
-msgstr ""
+msgstr "Κάτων ουρά"
 
 msgid "Upper tail"
-msgstr ""
+msgstr "Πάνω ουρά"
 
 msgid "Normal Probabilities"
-msgstr ""
+msgstr "Κανονική Πιθανότητα"
 
 msgid "No values specified."
-msgstr ""
+msgstr "Δεν έχουν καθοριστεί τιμές."
 
 msgid "Variable value(s)"
-msgstr ""
+msgstr "Τιμή μεταβλητής"
 
 msgid "t Quantiles"
-msgstr ""
+msgstr "t-Quantile"
 
 msgid "Degrees of freedom not specified."
-msgstr ""
+msgstr "Δεν καθορίζονται βαθμοί ελευθερίας."
 
 msgid "Degrees of freedom"
-msgstr ""
+msgstr "Βαθμοί ελευθερίας"
 
 msgid "t Probabilities"
-msgstr ""
+msgstr "t Πιθανότητες"
 
 msgid "Chi-Squared Quantiles"
-msgstr ""
+msgstr "Chi-Quadrat-Quantile"
 
 msgid "Chi-Squared Probabilities"
-msgstr ""
+msgstr "Chi-Quadrat Wahrscheinlichkeiten"
 
 msgid "F Quantiles"
-msgstr ""
+msgstr "F Ποσοστημόρια"
 
 msgid "Probabilities not specified"
-msgstr ""
+msgstr "Δεν έχουν καθοριστεί Πιθανότητες"
 
 msgid "Numerator degrees of freedom"
-msgstr ""
+msgstr "Αριμθητικός βαθμός ελευθερίας"
 
 msgid "Denominator degrees of freedom"
-msgstr ""
+msgstr "Παρανομαστής βαθμός ελευθερίας"
 
 msgid "F Probabilities"
-msgstr ""
+msgstr "F Πιθανότητες"
 
 msgid "Values not specified."
-msgstr ""
+msgstr "Δεν καθορίζονται Αξίες."
 
 msgid "Binomial Quantiles"
 msgstr ""
