@@ -1999,7 +1999,7 @@ msgid "File"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Επεξεργασία"
 
 msgid "New data set..."
 msgstr ""
