@@ -683,61 +683,70 @@ msgid "Values not specified."
 msgstr "Δεν καθορίζονται Αξίες."
 
 msgid "Binomial Quantiles"
-msgstr ""
+msgstr "Binomial-Quantile"
 
 msgid "Probabilities not specified."
-msgstr ""
+msgstr "Δεν έχουν καθοριστεί Πιθανότητες."
 
 msgid "Binomial trials not specified."
-msgstr ""
+msgstr "Anzahl Versuche nicht angegeben."
 
 msgid "Probability of success not specified."
-msgstr ""
+msgstr "Δεν έχει καθοριστεί επιτυχία στην πιθανότητα."
 
 msgid "Binomial trials"
-msgstr ""
+msgstr "Binomische Versuche"
 
 msgid "Probability of success"
-msgstr ""
+msgstr "Πιθανότητα επιτυχίας"
 
 msgid "Cumulative Binomial Probabilities"
-msgstr ""
+msgstr "Wahrscheinlichkeiten der kumulativen Binomialverteilung"
 
-msgid "Number of trials, %d, is large.\nCreate long output?"
+msgid ""
+"Number of trials, %d, is large.\n"
+"Create long output?"
 msgstr ""
+"Anzahl der Versuche, %d, ist groß.\n"
+"Lange Ausgabe erzeugen?"
 
 msgid "Binomial Probabilities"
-msgstr ""
+msgstr "Wahrscheinlichkeiten der Binomialverteilung"
 
-msgid "Range of values over which to plot, %d, is large.\nCreate long output?"
+msgid ""
+"Range of values over which to plot, %d, is large.\n"
+"Create long output?"
 msgstr ""
+"Spannweite der zu zeichnenden Werte, %d, ist groß.\n"
+"Lange Ausgabe erzeugen?"
 
 msgid "Poisson Probabilities"
-msgstr ""
+msgstr "Πιθανότητες Poisson"
 
 msgid "Poisson mean not specified."
-msgstr ""
+msgstr "Δεν έχει καθοριστεί ο μέσος όρος Poisson."
 
 msgid "Mean"
-msgstr ""
+msgstr "Μέσος όρος"
 
 msgid "Normal Distribution"
-msgstr ""
+msgstr "Κανονική Κατανομή"
 
 msgid "Plot density function"
-msgstr ""
+msgstr "Grafik der Dichtefunktion"
 
 msgid "Plot distribution function"
-msgstr ""
+msgstr "Grafik der Verteilungsfunktion"
 
 msgid "t Distribution"
-msgstr ""
+msgstr "Κατανομή t"
 
 msgid "Chi-squared Distribution"
-msgstr ""
+msgstr "Chi-Quadrat-Verteilung"
 
 msgid "F Distribution"
-msgstr ""
+msgstr "Κατανομή F"
+
 
 msgid "Numerator degrees of freedom not specified."
 msgstr ""
