@@ -16,7 +16,7 @@ msgid "KMeans Clustering"
 msgstr "KMeans ομαδοποίηση"
 
 msgid "Variables (pick one or more)"
-msgstr "Mεταβλητές (eine oder mehrere)"
+msgstr "Mεταβλητές (επιλέξτε μια ή παραπάνω)"
 
 msgid "No variables selected."
 msgstr "Καμία μεταβλητή δεν επιλέχθηκε."
@@ -28,25 +28,25 @@ msgid "Number of clusters:"
 msgstr "Αριθμός των ομαδοποιήσεων:"
 
 msgid "Number of starting seeds:"
-msgstr ""
+msgstr "Αρχικός αριθμός των seeds"
 
 msgid "Maximum iterations:"
-msgstr ""
+msgstr Μέγιστες επαναλήψεις"
 
 msgid "Print cluster summary"
-msgstr ""
+msgstr "Εκτύπωση συνοπτικού αθροίσματος "
 
 msgid "Bi-plot of clusters"
-msgstr ""
+msgstr "Bi-plot των συσπειρώσεων"
 
 msgid "Assign clusters to\nthe data set"
-msgstr ""
+msgstr "Εκχώρηση συστάδων προς\μεσα στο σύνολο δεδομένων"
 
 msgid "Assignment variable:"
-msgstr ""
+msgstr "εκχώρηση μεταβλητής"
 
 msgid "Hierarchical Clustering"
-msgstr ""
+msgstr "Ιεραρχική Ομαδοποίηση"
 
 
 msgid "Ward's Method"
@@ -110,7 +110,7 @@ msgid "A clustering solution has not been selected."
 msgstr "Μια λύση ομαδοποίησης δεν έχει επιλεχθεί."
 
 msgid "Append Cluster Groups to the Active Data Set"
-msgstr ""
+msgstr "Προσάρτηση συστάδων ομάδων σε ενεργό σύνολο δεδομένων"
 
 msgid "Assigned cluster label:"
 msgstr "Όνομα της μεταβλητής"
@@ -197,10 +197,10 @@ msgid "Model:"
 msgstr "Μοντέλο:"
 
 msgid "Script Window"
-msgstr "Skriptfenster"
+msgstr "Σενάριο Παραθύρου"
 
 msgid "Output Window"
-msgstr "Ausgabefenster"
+msgstr "Παράθυρο Εξόδου"
 
 msgid "Messages"
 msgstr "Μηνύματα"
@@ -242,7 +242,7 @@ msgid "is not a valid name."
 msgstr "δεν είναι έγκυρο το όνομα."
 
 msgid "Data set"
-msgstr "Σύνολο δεδομένου"
+msgstr "Σύνολο δεδομένων"
 
 msgid "empty data set."
 msgstr "άδεια δεδομένα."
@@ -273,52 +273,52 @@ msgstr "Μεταβλητή."
 
 
 msgid "Expression to compute"
-msgstr ""
+msgstr "Έκφραση για τον υπολογισμό"
 
 msgid "Delete Variables"
-msgstr ""
+msgstr "Διαγραφή μεταβλητών"
 
 msgid "Variable(s) to delete (pick one or more)"
-msgstr ""
+msgstr "Μεταβλητή(-τές) για διαγραφή (επιλέξτε μια ή παραπάνω)"
 
 msgid "You must select one or more variables."
-msgstr ""
+msgstr "Θα πρέπει να επιλέξετε μια ή παραπανω μεταβλητές"
 
 msgid "Delete %s?\nPlease confirm."
-msgstr ""
+msgstr "Διαγραφή %s?\nΠαρακαλώ επιβεβαιώστε"
 
 msgid "Delete %d variables?\nPlease confirm."
-msgstr ""
+msgstr "Διαγραφή %d μεταβλητων?\nΠαρακαλώ επιβεβαιώστε "
 
 msgid "Read Data From Text File"
-msgstr ""
+msgstr "Ανάγνωση δεδομένων από αρχείο κειμένου"
 
 msgid "White space"
-msgstr ""
+msgstr "Λευκός χώρος"
 
 msgid "Commas"
-msgstr ""
+msgstr "Κόμματα"
 
 msgid "Tabs"
-msgstr ""
+msgstr "Τάμπ"
 
 msgid "Field Separator"
-msgstr ""
+msgstr "Διαχωριστικό πεδίο"
 
 msgid "Period [.]"
-msgstr ""
+msgstr "Περίοδος [.]"
 
 msgid "Comma [,]"
-msgstr ""
+msgstr "Κόμα [,]"
 
 msgid "Decimal-Point Character"
-msgstr ""
+msgstr "Χαρακτήρας Decimal-Point"
 
 msgid "You must enter a name for the data set."
-msgstr ""
+msgstr "Θα πρέπει να εισάγετε ένα όνομα για το σύνολο δεδομένων"
 
 msgid "{\"Text Files\" {\".txt\" \".TXT\" \".dat\" \".DAT\" \".csv\" \".CSV\"}} {\"All Files\" {\"*\"}}"
-msgstr ""
+msgstr "{\"Αρχείο Κειμένου\" {\".txt\" \".TXT\" \".dat\" \".DAT\" \".csv\" \".CSV\"}} {\"Όλα τα αρχεία\" {\"*\"}}"
 
 msgid "Variable names in file:"
 msgstr "Ονόματα μεταβλητών αρχείου:"
@@ -339,7 +339,7 @@ msgid "Select package:"
 msgstr "Διαλέξτε πακέτο:"
 
 msgid "Data set %s does not exit"
-msgstr "Die Datenmatrix '%s' ist nicht vorhanden"
+msgstr "Το σύνολο δεδομένων %s δεν υπάρχει"
 
 msgid "You must select a package."
 msgstr "Πρέπει να επιλέξετε ένα πακέτο."
@@ -363,28 +363,28 @@ msgid "Import SPSS Data Set"
 msgstr "Εισάγετε SPSS δεδομένο"
 
 msgid "{\"SPSS save files\" {\".sav\" \".SAV\"}} {\"SPSS portable files\" {\".por\" \".POR\"}} {\"All Files\" {\"*\"}}"
-msgstr ""
+msgstr "{\"SPSS αποθήκευση αρχείων\" {\".sav\" \".SAV\"}} {\"SPSS φορητά αρχεία\" {\".por\" \".POR\"}} {\"Όλα τα αρχεία\" {\"*\"}}"
 
 msgid "Convert value labels\nto factor levels"
-msgstr ""
+msgstr "Μετατροπή αξίας ετικετών σε επίπεδο παράγοντα"
 
 msgid "Maximum number\nof value labels\nfor factor conversion"
 msgstr ""
 
 msgid "Import Minitab Data Set"
-msgstr ""
+msgstr "Εισαγωγή Minitab σε σύνολο δεδομένων"
 
 msgid "{\"Minitab portable files\" {\".mtp\" \".MTP\"}} {\"All Files\" {\"*\"}}"
-msgstr ""
+msgstr "{\"Minitab φορητά αρχεία\" {\".mtp\" \".MTP\"}} {\"Όλα τα αρχεία\" {\"*\"}}"
 
 msgid "Minitab data set contains elements of unequal length.\nData set cannot be converted."
-msgstr ""
+msgstr "Το σύνολο δεδομένων Minitab περιέχει στοιχεία άνισου μήκους.\Το σύνολο δεδομένων δεν μπορεί να μετατραπεί"
 
 msgid "Import STATA Data Set"
-msgstr ""
+msgstr "Εισάγετε σύνολο δεδομένων STATA"
 
 msgid "{\"STATA datasets\" {\".dta\" \".DTA\"}} {\"All Files\" {\"*\"}}"
-msgstr ""
+msgstr "{\"STATA datasets\" {\".dta\" \".DTA\"}} {\"Όλα τα αρχεία\" {\"*\"}}"
 
 msgid "Convert dates to R format"
 msgstr "Μετατροπή ημερομηνίες σε R μορφή"
@@ -417,7 +417,7 @@ msgid "<same as variable>"
 msgstr "<ίδιο σαν μεταβλητή>"
 
 msgid "Number of levels (%d) too large."
-msgstr "Νούμερο των επιπέδων ('%d')είναι πολύ μεγάλη."
+msgstr "Νούμερο των επιπέδων (%d)είναι πολύ μεγάλη."
 
 msgid "Level Names"
 msgstr "Ονόματα Επιπέδων"
@@ -506,7 +506,7 @@ msgid "Write row names:"
 msgstr "Γράψτε την σειρά ονομάτων:"
 
 msgid "Quotes around character values:"
-msgstr "Klammern um Zeichenketten:"
+msgstr "Εισαγωγικά γύρω απο την αξία του χαρακτήρα:"
 
 msgid "Spaces"
 msgstr "Χώρος"
@@ -524,7 +524,7 @@ msgid "Variables (select one or more)"
 msgstr "Μεταβλητές (επιλέξτε μια ή περισσότερες)"
 
 msgid "<same as active data set>"
-msgstr "<gleicher Name, wie die aktive Datenmatrix>"
+msgstr "<ίδιο σαν ενεργό σύνολο δεδομένων>"
 
 msgid "No variables were selected."
 msgstr "Καμία μεταβλητή δεν έχει επιλεχθεί."
@@ -542,10 +542,10 @@ msgid "<all cases>"
 msgstr "<σε όλες τις περιπτώσεις>"
 
 msgid "New data set same as active data set."
-msgstr "Die neue Datenmatrix ist mit der aktiven Datenmatrix identisch"
+msgstr "Νέο σύνολο δεδομένων σαν ενεργό σύνολο δεδομένων"
 
 msgid "Subset expression"
-msgstr "Anweisung für dieTeilmenge"
+msgstr "Υποσύνολο της έκφρασης"
 
 msgid "Set Case Names"
 msgstr "Ορίστε Ονόματα Περιπτώσεων"
@@ -608,10 +608,10 @@ msgid "Contrast Name:"
 msgstr "Όνομα Αντίθεσης:"
 
 msgid "Number of valid entries in contrast matrix(%d)\nnot equal to number of levels (%d) * number of contrasts (%d)."
-msgstr ""
+msgstr "Αριθμός έγκυρων καταχωρήσεων σε αντίθεση matrix(%d)\nδεν είναι ίσο με τον αριθμό των επιπέδων (%d) * αριθμός των αντιθέσεων (%d)"
 
 msgid "Contrast matrix is not of full column rank"
-msgstr ""
+msgstr "Αντίθεση matrix δεν είναι πλήρους τάξης στήλη"
 
 msgid "Contrast names must be unique"
 msgstr "Τα ονόματα των Αντιθέσεων πρέπει να είναι μοναδικά"
@@ -629,7 +629,7 @@ msgid "mu (mean)"
 msgstr "µ (Erwartungswert)"
 
 msgid "sigma (standard deviation)"
-msgstr "sigma (Standardabweichung)"
+msgstr "sigma (τυπική απόκλιση)"
 
 msgid "Lower tail"
 msgstr "Κάτων ουρά"
@@ -647,7 +647,7 @@ msgid "Variable value(s)"
 msgstr "Τιμή μεταβλητής"
 
 msgid "t Quantiles"
-msgstr "t-Quantile"
+msgstr "t ποσοστημορίων"
 
 msgid "Degrees of freedom not specified."
 msgstr "Δεν καθορίζονται βαθμοί ελευθερίας."
@@ -659,10 +659,10 @@ msgid "t Probabilities"
 msgstr "t Πιθανότητες"
 
 msgid "Chi-Squared Quantiles"
-msgstr "Chi-Quadrat-Quantile"
+msgstr "Chi-Squared Ποσοστημορίων "
 
 msgid "Chi-Squared Probabilities"
-msgstr "Chi-Quadrat Wahrscheinlichkeiten"
+msgstr "Chi-Squared Πιθανοτήτων"
 
 msgid "F Quantiles"
 msgstr "F Ποσοστημόρια"
@@ -683,25 +683,25 @@ msgid "Values not specified."
 msgstr "Δεν καθορίζονται Αξίες."
 
 msgid "Binomial Quantiles"
-msgstr "Binomial-Quantile"
+msgstr "Διωνυμική Ποσοστηορίων"
 
 msgid "Probabilities not specified."
 msgstr "Δεν έχουν καθοριστεί Πιθανότητες."
 
 msgid "Binomial trials not specified."
-msgstr "Anzahl Versuche nicht angegeben."
+msgstr "Διωνυμικές δοκιμές δεν διευκρινίζονται."
 
 msgid "Probability of success not specified."
 msgstr "Δεν έχει καθοριστεί επιτυχία στην πιθανότητα."
 
 msgid "Binomial trials"
-msgstr "Binomische Versuche"
+msgstr "Διωνυμικές δοκιμές"
 
 msgid "Probability of success"
 msgstr "Πιθανότητα επιτυχίας"
 
 msgid "Cumulative Binomial Probabilities"
-msgstr "Wahrscheinlichkeiten der kumulativen Binomialverteilung"
+msgstr "Αθροιστικές Διωνυμικές Πιθανότητες"
 
 msgid ""
 "Number of trials, %d, is large.\n"
@@ -711,7 +711,7 @@ msgstr ""
 "Lange Ausgabe erzeugen?"
 
 msgid "Binomial Probabilities"
-msgstr "Wahrscheinlichkeiten der Binomialverteilung"
+msgstr "Διωνυμικές Πιθανότητες"
 
 msgid ""
 "Range of values over which to plot, %d, is large.\n"
@@ -733,16 +733,16 @@ msgid "Normal Distribution"
 msgstr "Κανονική Κατανομή"
 
 msgid "Plot density function"
-msgstr "Grafik der Dichtefunktion"
+msgstr "Γραφικό της συνάρτησης πυκνότητας"
 
 msgid "Plot distribution function"
-msgstr "Grafik der Verteilungsfunktion"
+msgstr "Γραφική συνάρτηση κατανομής"
 
 msgid "t Distribution"
 msgstr "Κατανομή t"
 
 msgid "Chi-squared Distribution"
-msgstr "Chi-Quadrat-Verteilung"
+msgstr "Chi-squared Κατανομή"
 
 msgid "F Distribution"
 msgstr "Κατανομή F"
@@ -758,7 +758,7 @@ msgid "Binomial Distribution"
 msgstr "Διωνυμική Κατανομή"
 
 msgid "Plot probability mass function"
-msgstr "Grafik der Wahrscheinlichkeitsfunktion"
+msgstr "Γραφική συνάρτηση μάζας πιθανότητας"
 
 msgid "Poisson Distribution"
 msgstr "Κατανομή Poisson"
@@ -771,13 +771,13 @@ msgstr "μέσος όρος "
 
 
 msgid "{\"Script Files\" {\".R\"}} {\"All Files\" {\"*\"}}"
-msgstr ""
+msgstr "{\"Σενάριο Αρχείων\" {\".R\"}} {\"Όλα τα αχρεία\" {\"*\"}}"
 
 msgid "Save current log file?"
-msgstr ""
+msgstr "Αποθήκευση τρέχον αρχείο καταγραφής?"
 
 msgid "Script saved to"
-msgstr ""
+msgstr "Σενάριο αποθηκεύτηκε στο"
 
 msgid "Output saved to"
 msgstr ""
