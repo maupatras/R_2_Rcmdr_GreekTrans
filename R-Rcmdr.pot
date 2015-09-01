@@ -777,7 +777,7 @@ msgid "Save current log file?"
 msgstr "Αποθήκευση τρέχον αρχείο καταγραφής?"
 
 msgid "Script saved to"
-msgstr "Σενάριο αποθηκεύτηκε στο"
+msgstr "Σενάριο αποθηκεύτηκε στο "
 
 msgid "Output saved to"
 msgstr ""
@@ -789,64 +789,64 @@ msgid "{\"All Files\" {\"*\"}}"
 msgstr ""
 
 msgid "R workspace saved to"
-msgstr ""
+msgstr "R workspace αποθηκεύτηκε στo"
 
 msgid "Exit?"
-msgstr ""
+msgstr "Έξοδος?"
 
 msgid "Save script file?"
-msgstr ""
+msgstr "Αποθήκευση αρχείου σεναρίου?"
 
 msgid "Save output file?"
 msgstr ""
 
 msgid "Commander Options"
-msgstr ""
+msgstr "Επιλογές Commander"
 
 msgid "Log commands to script window"
-msgstr ""
+msgstr "Είσοδος εντολών στο παράθυρο του σεναρίου"
 
 msgid "Log-font size (points)"
-msgstr ""
+msgstr "Σύνδεση μεγέθους γραμματοσειράς (πόντοι)"
 
 msgid "Log width (characters)"
-msgstr ""
+msgstr "Σύνδεση πλάτους (χαρακτήρες)"
 
 msgid "Log height (lines)"
-msgstr ""
+msgstr "Σύνδεση ύψους (γραμμές)"
 
 msgid "Send output to R Console"
-msgstr ""
+msgstr "Στείλτε την εξωτερική εργασία στην R κονσόλα"
 
 msgid "Output height (lines)"
-msgstr ""
+msgstr "Eξωτερική εργασία ύψος (γραμμές)"
 
 msgid "Unordered factors"
-msgstr ""
+msgstr "Μη αριθμημένοι Παράγοντες"
 
 msgid "Ordered factors"
-msgstr ""
+msgstr "Αριθμημένοι Παράγοντες"
 
 msgid "Active window grabs focus"
-msgstr ""
+msgstr "Ενεργό παράθυρο αρπάζει την εστίαση"
 
 msgid "Double-click presses OK button"
-msgstr ""
+msgstr "Το διπλό αριστερό κλικ πατάει το ΟΚ κουμπί"
 
 msgid "Sort variable names alphabetically"
-msgstr ""
+msgstr "Ταξινόμηση των ονομάτων των μεταβλητών με αλφαβητική σειρά"
 
 msgid "Show edit button"
-msgstr ""
+msgstr "Εμφάνιση κουμπιού επεξεργασίας"
 
 msgid "Exit and Restart\nR Commander"
-msgstr ""
+msgstr "Έξοδος και Επανεκκίνηση του R Commander"
 
 msgid "Scale factor for Tk elements"
-msgstr ""
+msgstr "Συντελεστής κλίμακας για τα στοιχεία Tk"
 
 msgid "Default font"
-msgstr ""
+msgstr "Προκαθορισμένο μέγεθος γραμματοσειράς"
 
 msgid "No packages available to load."
 msgstr "Κανένα πακέτο δεν είναι διαθέσιμο για φόρτοση ."
@@ -864,7 +864,7 @@ msgid "Packages loaded:"
 msgstr "Φόρτοση πακέτων:"
 
 msgid "Index Plot"
-msgstr "Index-Plot"
+msgstr "Δείκτης Plot"
 
 msgid "You must select a variable"
 msgstr "Πρέπει να επιλέξετε μια μεταβλητή"
@@ -873,8 +873,8 @@ msgid ""
 "Identify observations\n"
 "with mouse"
 msgstr ""
-"Die Beobachtungen können mit \n"
-"der Maus ausgewählt werden"
+"Προσδιορίστε παρατηρήσεις \n"
+"με το ποντίκι"
 
 msgid "Spikes"
 msgstr "Αιχμές"
@@ -898,304 +898,304 @@ msgid "Densities"
 msgstr "Πυκνότητες"
 
 msgid "Axis Scaling"
-msgstr "Skalierung der Achse"
+msgstr "Άξονας Κλιμάκωσης"
 
 msgid "Stem and Leaf Display"
-msgstr "Stamm-Blatt Diagramm"
+msgstr "Διάγραμμα Stem and Leaf"
 
 msgid "Automatic"
 msgstr "Αυτόματο"
 
 msgid "Frequency counts"
-msgstr ""
+msgstr "Μέτρηση συχνότητας"
 
 msgid "Percentages"
-msgstr ""
+msgstr "Ποσοστά"
 
 msgid "Densities"
-msgstr ""
+msgstr "Πυκνότητες"
 
 msgid "Axis Scaling"
-msgstr ""
+msgstr "Άξονας Κλιμάκωσης"
 
 msgid "Stem and Leaf Display"
-msgstr ""
+msgstr "Διάγραμμα Stem and Leaf"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Αυτόματο"
 
 msgid "Parts Per Stem"
-msgstr ""
+msgstr "Μέρη ανά στέλεχος"
 
 msgid "Tukey"
-msgstr ""
+msgstr "Tukey"
 
 msgid "Repeated stem digits"
-msgstr ""
+msgstr "Επαναλαμβανόμενα στέλεχη ψηφίων"
 
 msgid "Style of Divided Stems"
-msgstr ""
+msgstr "Στυλ από Divided Stems"
 
 msgid "Trim outliers"
-msgstr ""
+msgstr "Περικοπή των ακραίων τιμών"
 
 msgid "Show depths"
 msgstr "Εμφάνιση βάθους"
 
 msgid "Reverse negative leaves"
-msgstr ""
+msgstr "Αναστροφή των αρνητικών φύλλα"
 
 msgid "Leafs Digit:"
-msgstr ""
+msgstr "Leafs Ψηφίο"
 
 msgid "or set:"
-msgstr ""
+msgstr "ή όρισε"
 
 msgid "Options"
-msgstr ""
+msgstr "Επιλογές"
 
 msgid "Boxplot"
-msgstr ""
+msgstr "Boxplot"
 
 msgid "Identify outliers with mouse"
-msgstr ""
+msgstr "Προσδιορισμός των ακραίων τιμών με το ποντίκι"
 
 msgid "Scatterplot"
-msgstr ""
+msgstr "Διάγραμμα Scatter"
 
 msgid "x-variable (pick one)"
-msgstr ""
+msgstr "X-μεταβλητή (επιλέξτε μια)"
 
 msgid "y-variable (pick one)"
-msgstr ""
+msgstr "Y-μεταβλητή (επιλέξτε μια)"
 
 msgid "Identify points"
-msgstr ""
+msgstr "Προσδιορίστε πόντους"
 
 msgid "Jitter x-variable"
-msgstr ""
+msgstr "X μεταβλητή Jitter"
 
 msgid "Jitter y-variable"
-msgstr ""
+msgstr "Y μεταβλητή Jitter"
 
 msgid "Marginal boxplots"
-msgstr ""
+msgstr "Οριακά boxplots"
 
 msgid "Least-squares line"
-msgstr ""
+msgstr "Γραμμή ελαχίστων τετραγώνων"
 
 msgid "Smooth Line"
-msgstr ""
+msgstr "Ομαλή Γραμμή"
 
 msgid "You must select two variables"
-msgstr ""
+msgstr "Πρέπει να επιλέξετε δύο μεταβλητές"
 
 msgid "x and y variables must be different"
-msgstr ""
+msgstr "Η μεταβλητές X , Y πρέπει να είναι διαφορετικές"
 
 msgid "Span for smooth"
-msgstr ""
+msgstr "Εξομάλυνση εύρος ζώνης"
 
 msgid "Scatterplot Matrix"
-msgstr ""
+msgstr "ScatterΔιάγραμμα Matrix"
 
 msgid "Select variables (three or more)"
-msgstr ""
+msgstr "Επιλέξτε μεταβλητή (τρείς ή περισσότερες)"
 
 msgid "Least-squares lines"
-msgstr ""
+msgstr "Γραμμές ελαχίστων τετραγώνων"
 
 msgid "Smooth lines"
-msgstr ""
+msgstr "Ομαλή Γραμμή"
 
 msgid "Density plots"
-msgstr ""
+msgstr "Διάγραμμα  πυκνότητας"
 
 msgid "Histograms"
-msgstr ""
+msgstr "Ιστογράμματα"
 
 msgid "Boxplots"
-msgstr ""
+msgstr "Boxplots"
 
 msgid "Normal QQ plots"
-msgstr ""
+msgstr "Κανονικά QQ plots"
 
 msgid "Nothing (empty)"
-msgstr ""
+msgstr "Τίποτα (άδειο)"
 
 msgid "On Diagonal"
-msgstr ""
+msgstr "σε Διαγώνια"
 
 msgid "Fewer than 3 variable selected."
-msgstr ""
+msgstr "Επιλέχθηκαν πάνω από τρείς μεταβλητές."
 
 msgid "Bar Graph"
-msgstr ""
+msgstr "Ραβδογράφημα"
 
 msgid "Pie Chart"
-msgstr ""
+msgstr "Διάγραμμα πίτα"
 
 msgid "Line Plot"
-msgstr ""
+msgstr "Γραμμή Plot"
 
 msgid "x variable (pick one)"
-msgstr ""
+msgstr "X μεταβλητή (επιλέξτε μια)"
 
 msgid "y variables (pick one or more)"
-msgstr ""
+msgstr "Y μεταβλητή (επιλέξτε μια ή περισσότερες)"
 
 msgid "<use y-variable names>"
-msgstr ""
+msgstr "<χρησιμοποιήστε όνομα μεταβλητής Y>"
 
 msgid "No x variable selected."
-msgstr ""
+msgstr "Καμία μεταβλητή X δεν έχει επιλεχθεί."
 
 msgid "No y variables selected."
-msgstr ""
+msgstr "Καμία μεταβλητή Y δεν έχει επιλεχθεί."
 
 msgid "x and y variables must be different."
-msgstr ""
+msgstr "Η μεταβλητή X και η μεταβλητή πρέπει να είναι διαφορετικές."
 
 msgid "x-values are not in order.\nContinue?"
-msgstr ""
+msgstr "Οι τιμές Χ δεν έχουν αριθμηθεί.\νΣυνέχεια?"
 
 msgid "Label for y-axis"
-msgstr ""
+msgstr "Ετικέτα για τον άξονα Y"
 
 msgid "Plot legend (position with mouse click)"
-msgstr ""
+msgstr "Legen Plot (θέση με κλικ του ποντικιού)"
 
 msgid "Quantile-Comparison (QQ) Plot"
-msgstr ""
+msgstr "Σύγκριση Quantile (QQ) Plot"
 
 msgid "df for t must be a positive number."
-msgstr ""
+msgstr "df για t πρέπει να είναι θετικός αριθμός"
 
 msgid "df for chi-square must be a positive number."
-msgstr ""
+msgstr "df για chi-square πρέπει να είναι θετικός αριθμός"
 
 msgid "numerator and denominator \ndf for F must be positive numbers."
-msgstr ""
+msgstr "αριθμητής και παρονομαστής \ndf για F πρέπει να είναι θετικοί αριθμοί "
 
 msgid "Identify observations with mouse"
-msgstr ""
+msgstr "Προσδιορίστε παρατηρήσεις με το ποντίκι"
 
 msgid "Distribution"
-msgstr ""
+msgstr "Διανομή"
 
 msgid "Normal"
-msgstr ""
+msgstr "Κανονικά"
 
 msgid "Chi-square"
-msgstr ""
+msgstr "Chi-square"
 
 msgid "Numerator df ="
-msgstr ""
+msgstr "Αριθμητής df ="
 
 msgid "Denominator df ="
-msgstr ""
+msgstr "Παρονομαστής df ="
 
 msgid "Parameters:"
-msgstr ""
+msgstr "Παράμετροι:"
 
 msgid "Plot Means"
-msgstr ""
+msgstr "Plot μέσος"
 
 msgid "Factors (pick one or two)"
-msgstr ""
+msgstr "Παράγοντες (επιλέξτε έναν ή δυο)"
 
 msgid "Response Variable (pick one)"
-msgstr ""
+msgstr "Μεταβλητή απόκρισης (επιλέξτε μια)"
 
 msgid "No factors selected."
-msgstr ""
+msgstr "Κανένας παράγοντας δεν επιλέχθηκε."
 
 msgid "More than two factors selected."
-msgstr ""
+msgstr "Πάνω από δυο παράγοντες έχουν επιλεχθεί."
 
 msgid "No response variable selected."
-msgstr ""
+msgstr "Καμία ανταπόκριση μεταβλητής δεν έχει επι΄λεχθεί"
 
 msgid "Error Bars"
-msgstr ""
+msgstr "Γραμμές Σφάλματος"
 
 msgid "blue"
-msgstr ""
+msgstr "μπλέ"
 
 msgid "Standard errors"
-msgstr ""
+msgstr "Τυπικά σφάλματα"
 
 msgid "Standard deviations"
-msgstr ""
+msgstr "Οι τυπικές αποκλίσεις"
 
 msgid "Confidence intervals"
-msgstr ""
+msgstr "Διαστήματα εμπιστοσύνης"
 
 msgid "Level of confidence:"
-msgstr ""
+msgstr "Επίπεδο εμπιστοσύνης:"
 
 msgid "No error bars"
-msgstr ""
+msgstr "Καμία Γραμμή Σφάλματος"
 
 msgid "3D Scatterplot"
-msgstr ""
+msgstr "3D Scatterplot"
 
 msgid "Explanatory variables (pick two)"
-msgstr ""
+msgstr "Ερμηνευτικές μεταβλητές (επιλέξτε μια)"
 
 msgid "Response variable (pick one)"
-msgstr ""
+msgstr "Μεταβλητή απόκρισης (επιλέξτε μια)"
 
 msgid "You must select a response variable."
-msgstr ""
+msgstr "Θα πρέπει να επιλέξετε μια μεταβλητή απόκρισης."
 
 msgid "You must select 2 explanatory variables."
-msgstr ""
+msgstr "Θα πρέπει να επιλέξετε 2 ερμηνευτικές μεταβλητές."
 
 msgid "Response and explanatory variables must be different."
-msgstr ""
+msgstr "Μεταβλητές απόκρισης και επεξηγηματικών πρέπει να είναι διαφορετικές."
 
 msgid "Parallel regression surfaces"
-msgstr ""
+msgstr "Παράλληλες επιφάνειες παλινδρόμησης"
 
 msgid "Show surface grid lines"
-msgstr ""
+msgstr "Εμφάνιση γραμμών πλέγματος επιφάνειας"
 
 msgid "Surfaces to Fit"
-msgstr ""
+msgstr "Επιφάνειες να χωρέσουν"
 
 msgid "Linear least-squares"
-msgstr ""
+msgstr "Γραμμική ελαχίστων τετραγώνων"
 
 msgid "Quadratic least-squares"
-msgstr ""
+msgstr "Τετραγωνική ελαχίστων τετραγώνων"
 
 msgid "Smooth regression"
-msgstr ""
+msgstr "Ομαλή παλινδρόμηση"
 
 msgid "Additive regression"
-msgstr ""
+msgstr "Πρόσθετη παλινδρόμησης"
 
 msgid "df(each term) ="
-msgstr ""
+msgstr "df (κάθε όρους) ="
 
 msgid "Background Color"
-msgstr ""
+msgstr "Χρώμα του φόντου"
 
 msgid "Black"
-msgstr ""
+msgstr "Μαύρο"
 
 msgid "White"
-msgstr ""
+msgstr "Άσπρο"
 
 msgid "Save Graph as Bitmap"
-msgstr ""
+msgstr "Αποθήκευση γραφήματος ως Bitmap"
 
 msgid "There is no current graphics device to save."
-msgstr ""
+msgstr "Δεν υπάρχει καμία τρέχουσα συσκευή γραφικών για να αποθηκεύσετε."
 
 msgid "Graphics File Type"
-msgstr ""
+msgstr "Τύπος γραφικού αρχείου"
 
 msgid "{\"PNG Files\" {\".png\" \".PNG\"}} {\"All Files\" {\"*\"}}"
 msgstr ""
