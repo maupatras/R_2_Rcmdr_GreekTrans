@@ -13,10 +13,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "KMeans Clustering"
-msgstr "KMeans ομαδοποίηση"
+msgstr "Ομαδοποίηση K-Means"
 
 msgid "Variables (pick one or more)"
-msgstr "Mεταβλητές (επιλέξτε μια ή παραπάνω)"
+msgstr "Mεταβλητές (επιλέξτε μία ή παραπάνω)"
 
 msgid "No variables selected."
 msgstr "Καμία μεταβλητή δεν επιλέχθηκε."
@@ -25,35 +25,34 @@ msgid "<all valid cases>"
 msgstr "<Όλες οι περιπτώσεις είναι έγκυρες>"
 
 msgid "Number of clusters:"
-msgstr "Αριθμός των ομαδοποιήσεων:"
+msgstr "Αριθμός ομαδοποιήσεων:"
 
 msgid "Number of starting seeds:"
-msgstr "Αρχικός αριθμός των seeds"
+msgstr "Αριθμός των αρχικών σημείων:"
 
 msgid "Maximum iterations:"
-msgstr Μέγιστες επαναλήψεις"
+msgstr "Μέγιστες επαναλήψεις:"
 
 msgid "Print cluster summary"
-msgstr "Εκτύπωση συνοπτικού αθροίσματος "
+msgstr "Εκτύπωση συνοπτικής ομαδοποίησης"
 
 msgid "Bi-plot of clusters"
-msgstr "Bi-plot των συσπειρώσεων"
+msgstr "Ομαδοποιήση Bi-plot"
 
 msgid "Assign clusters to\nthe data set"
-msgstr "Εκχώρηση συστάδων προς\μεσα στο σύνολο δεδομένων"
+msgstr "Εκχώρηση ομαδοποιήσεων προς\n το σύνολο δεδομένων"
 
 msgid "Assignment variable:"
-msgstr "εκχώρηση μεταβλητής"
+msgstr "Εκχώρηση μεταβλητής:"
 
 msgid "Hierarchical Clustering"
 msgstr "Ιεραρχική Ομαδοποίηση"
-
 
 msgid "Ward's Method"
 msgstr "Μέθοδος Ward"
 
 msgid "Single Linkage"
-msgstr "Ενιαίος Σύνδεσμος"
+msgstr "Μονός Σύνδεσμος"
 
 msgid "Complete Linkage"
 msgstr "Πλήρης Σύνδεσμος"
@@ -77,46 +76,46 @@ msgid "Euclidean"
 msgstr "Ευκλείδεια"
 
 msgid "Squared-Euclidian"
-msgstr ""
+msgstr "Πυθαγόριο Θεώρημα"
 
 msgid "Manhattan (City Block)"
 msgstr "Μανχάταν (City Block)"
 
 msgid "No Transformation"
-msgstr "Χωρίς μετασχηματισμό"
+msgstr "Χωρίς Μετασχηματισμό"
 
 msgid "Distance Measure"
-msgstr "Μέτρηση απόστασης"
+msgstr "Μέτρηση Απόστασης"
 
 msgid "Clustering solution name:"
 msgstr "Όνομα Λύσης Ομαδοποίησης:"
 
 msgid "Plot Dendrogram"
-msgstr "Πλοκή Δενδρόγραμμα"
+msgstr "Γράφημα Δενδρογράμματος"
 
 msgid "Hierarchical Cluster Summary"
-msgstr "Ιεραρχική Περίληψη Συγκροτήματος"
+msgstr "Ιεραρχική Περίληψη Ομαδοποίησης"
 
 msgid "Select One Clustering Solution"
-msgstr "Επιλέξτε μια Λύση Συγκροτήματος"
+msgstr "Επιλέξτε μία Λύση Ομαδοποίησης"
 
 msgid "There are no hierachical clustering solutions"
 msgstr "Δεν υπάρχουν ιεραρχικές λύσεις ομαδοποίησης"
 
 msgid "No hierachical clustering solutions are associated with this data set."
-msgstr "Μη ιεραρχική ομαδοποίηση λύσεως που σχετίζονται με αυτό το σύνολο δεδομένων."
+msgstr "Μη ιεραρχική ομαδοποίηση λύσεων που σχετίζονται με αυτό το σύνολο δεδομένων."
 
 msgid "A clustering solution has not been selected."
 msgstr "Μια λύση ομαδοποίησης δεν έχει επιλεχθεί."
 
 msgid "Append Cluster Groups to the Active Data Set"
-msgstr "Προσάρτηση συστάδων ομάδων σε ενεργό σύνολο δεδομένων"
+msgstr "Προσάρτηση σύμπλεγμα ομάδων σε ενεργό σύνολο δεδομένων"
 
 msgid "Assigned cluster label:"
 msgstr "Όνομα της μεταβλητής"
 
 msgid "Find"
-msgstr "Βρίσκω"
+msgstr "Βρείτε"
 
 msgid "Regular-expression search"
 msgstr "Αναζήτηση τακτικής έκφρασης"
@@ -173,7 +172,7 @@ msgid "Delete"
 msgstr "Διαγραφή"
 
 msgid "Find..."
-msgstr "Βρές ..."
+msgstr "Βρείτε ..."
 
 msgid "Select all"
 msgstr "Επιλογή όλων"
@@ -200,7 +199,7 @@ msgid "Script Window"
 msgstr "Σενάριο Παραθύρου"
 
 msgid "Output Window"
-msgstr "Παράθυρο Εξόδου"
+msgstr "Παράθυρο Εξόδου/Αποτελέσματος"
 
 msgid "Messages"
 msgstr "Μηνύματα"
@@ -251,7 +250,7 @@ msgid "Enter name for data set:"
 msgstr "Εισάγετε ένα όνομα δεδομένου:"
 
 msgid "There is only one dataset in memory."
-msgstr "Υπάρχει μονο ένα δεδομένο στην μνήμη."
+msgstr "Υπάρχει μόνο ένα δεδομένο στην μνήμη."
 
 msgid "There are no data sets from which to choose."
 msgstr "Δεν υπάρχουν δεδομένα τα οποία μπορείτε να επιλέξετε."
@@ -271,18 +270,17 @@ msgstr "Μεταβλητή προς επανακωδικοποίηση (επιλ
 msgid "variable"
 msgstr "Μεταβλητή."
 
-
 msgid "Expression to compute"
 msgstr "Έκφραση για τον υπολογισμό"
 
 msgid "Delete Variables"
-msgstr "Διαγραφή μεταβλητών"
+msgstr "Διαγραφή Μεταβλητών"
 
 msgid "Variable(s) to delete (pick one or more)"
-msgstr "Μεταβλητή(-τές) για διαγραφή (επιλέξτε μια ή παραπάνω)"
+msgstr "Μεταβλητή(-τές) για διαγραφή (επιλέξτε μία ή παραπάνω)"
 
 msgid "You must select one or more variables."
-msgstr "Θα πρέπει να επιλέξετε μια ή παραπανω μεταβλητές"
+msgstr "Θα πρέπει να επιλέξετε μία ή παραπάνω μεταβλητές"
 
 msgid "Delete %s?\nPlease confirm."
 msgstr "Διαγραφή %s?\nΠαρακαλώ επιβεβαιώστε"
@@ -294,16 +292,16 @@ msgid "Read Data From Text File"
 msgstr "Ανάγνωση δεδομένων από αρχείο κειμένου"
 
 msgid "White space"
-msgstr "Λευκός χώρος"
+msgstr "Χώρος White"
 
 msgid "Commas"
 msgstr "Κόμματα"
 
 msgid "Tabs"
-msgstr "Τάμπ"
+msgstr "Καρτέλες"
 
 msgid "Field Separator"
-msgstr "Διαχωριστικό πεδίο"
+msgstr "Διαχωριστής πεδίου"
 
 msgid "Period [.]"
 msgstr "Περίοδος [.]"
@@ -318,13 +316,13 @@ msgid "You must enter a name for the data set."
 msgstr "Θα πρέπει να εισάγετε ένα όνομα για το σύνολο δεδομένων"
 
 msgid "{\"Text Files\" {\".txt\" \".TXT\" \".dat\" \".DAT\" \".csv\" \".CSV\"}} {\"All Files\" {\"*\"}}"
-msgstr "{\"Αρχείο Κειμένου\" {\".txt\" \".TXT\" \".dat\" \".DAT\" \".csv\" \".CSV\"}} {\"Όλα τα αρχεία\" {\"*\"}}"
+msgstr "{\"Αρχεία Κειμένου\" {\".txt\" \".TXT\" \".dat\" \".DAT\" \".csv\" \".CSV\"}} {\"Όλα τα αρχεία\" {\"*\"}}"
 
 msgid "Variable names in file:"
 msgstr "Ονόματα μεταβλητών αρχείου:"
 
 msgid "Missing data indicator:"
-msgstr "Zeichen für fehlenden Wert:"
+msgstr "Λείπει ο δείκτης των δεδομένων:"
 
 msgid "Other"
 msgstr "Άλλα"
@@ -333,7 +331,7 @@ msgid "Specify:"
 msgstr "Ορίστε:"
 
 msgid "Read Data From Package"
-msgstr "Διάβασε δεδομένα από τά πακέτα"
+msgstr "Διαβάστε δεδομένα από τά πακέτα"
 
 msgid "Select package:"
 msgstr "Διαλέξτε πακέτο:"
