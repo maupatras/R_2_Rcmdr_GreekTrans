@@ -1591,7 +1591,7 @@ msgid "Multi-Way Analysis of Variance"
 msgstr "Multi-Way Ανάλυση Διακύμανσης"
 
 msgid "Factors (pick one or more)"
-msgstr "Παράγοντες (επιλέξτε έναν ή περισσότερους)"
+msgstr "Παράγοντες (επιλέξτε έναν ή παραπάνω)"
 
 msgid "You must select at least one factor."
 msgstr "Πρέπει να επιλέξετε τουλάχιστον έναν παράγοντα."
@@ -1663,334 +1663,334 @@ msgid "The two variables must be different."
 msgstr "Οι δύο μεταβλητές πρέπει να είναι διαφορετικές."
 
 msgid "Kruskal-Wallis Rank Sum Test"
-msgstr ""
+msgstr "Kruskal-Wallis Rank Sum Test"
 
 msgid "Single-Sample Proportion Test"
-msgstr ""
+msgstr "Single-Sample Proportion Test"
 
 msgid "Population proportion = p0"
-msgstr ""
+msgstr "Ποσοστό πληθυσμού = p0"
 
 msgid "Population proportion < p0"
-msgstr ""
+msgstr "Ποσοστό πληθυσμού < p0"
 
 msgid "Population proportion > p0"
-msgstr ""
+msgstr "Ποσοστό πληθυσμού > p0"
 
 msgid "Exact binomial"
-msgstr ""
+msgstr "Ακριβής διωνυμικό"
 
 msgid "Null hypothesis: p ="
-msgstr ""
+msgstr "Μηδενική υπόθεση: p ="
 
 msgid "Two-Sample Proportions Test"
-msgstr ""
+msgstr "Δύο Δείγμα Ποσοστών Test"
 
 msgid "Groups and response variables must be different."
-msgstr ""
+msgstr "Ομάδες και μεταβλητές απόκρισης πρέπει να είναι διαφορετικές."
 
 msgid "There are %d variables in the data set %s.\nDo you want to proceed?"
-msgstr ""
+msgstr "Υπάρχουν %d μεταβλητές στο σύνολο δεδομένων %s. \ nΘέλετε να συνεχίσετε;"
 
 msgid "Numerical Summaries"
-msgstr ""
+msgstr "Αριθμητική Περιλήψεις"
 
 msgid "Standard Deviation"
-msgstr ""
+msgstr "Τυπική Απόκλιση"
 
 msgid "Summarize by:"
-msgstr ""
+msgstr "Συνοψίζοντας:"
 
 msgid "Summarize by groups"
-msgstr ""
+msgstr "Συνοψίζοντας σε ομάδες:"
 
 msgid "Quantiles"
-msgstr ""
+msgstr "Ποσοστημόρια"
 
 msgid "quantiles:"
-msgstr ""
+msgstr "ποσοστημόρια:"
 
 msgid "Frequency Distribution"
-msgstr ""
+msgstr "Κατανομή συχνότητας"
 
 msgid "Goodness-of-Fit Test"
-msgstr ""
+msgstr "Καλή κατάσταση του τέστ "
 
 msgid "Invalid entry."
-msgstr ""
+msgstr "Μη έγκυρη καταχώριση."
 
 msgid "Missing entry."
-msgstr ""
+msgstr "Η καταχώριση λείπει."
 
 msgid "Number of valid entries (%d)\nnot equal to number levels (%d)."
-msgstr ""
+msgstr "Ο αριθμός έγκυρων καταχωρήσεων (%d)\nδεν είναι ίσος με τον αριθμό των επιπέδων (%d)."
 
 msgid "Negative probabilities not allowed."
-msgstr ""
+msgstr "Αρνητική πιθανότητα δεν επιτρέπεται."
 
 msgid "Probabilities rescaled to sum to 1."
-msgstr ""
+msgstr "Το άθροισμα των πιθανοτήτων συνοψίζεται στο 1."
 
 msgid "Chi-square goodness-of-fit test"
-msgstr ""
+msgstr "χ^2 goodness-of-fit test"
 
 msgid "Table of Statistics"
-msgstr ""
+msgstr "Στατιστικός Πίνακας"
 
 msgid "Median"
-msgstr ""
+msgstr "Διάμεσος"
 
 msgid "Standard deviation"
-msgstr ""
+msgstr "Τυπική απόκλιση"
 
 msgid "Statistic"
-msgstr ""
+msgstr "Στατιστική"
 
 msgid "Correlation Matrix"
-msgstr ""
+msgstr "Συσχέτιση Matrix"
 
 msgid "Pearson product-moment"
-msgstr ""
+msgstr "Pearson product-moment"
 
 msgid "Spearman rank-order"
-msgstr ""
+msgstr "Spearman rank-order"
 
 msgid "Partial"
-msgstr ""
+msgstr "Μερική"
 
 msgid "Type of Correlations"
-msgstr ""
+msgstr "Τύποι συσχετίσεων"
 
 msgid "Fewer than 3 variables selected\nfor partial correlations."
-msgstr ""
+msgstr "Λιγότερες από 3 μεταβλητές επιλέγονται\nγια μερικές συσχετίσεις."
 
 msgid "Two-Way Table"
-msgstr ""
+msgstr "Πίνακας Two-Way"
 
 msgid "Row variable (pick one)"
-msgstr ""
+msgstr "Μεταβλητή γραμμής (επιλέξτε μία)"
 
 msgid "Column variable (pick one)"
-msgstr ""
+msgstr "Μεταβλητή στήλης (επιλέξτε μία)"
 
 msgid "Row and column variables are the same."
-msgstr ""
+msgstr "Οι μεταβλητές γραμμής και στήλης είναι ίδιες."
 
 msgid "expected frequencies are less than 1"
-msgstr ""
+msgstr "αναμένεται οι συχνότητες να είναι λιγότερο από το 1"
 
 msgid "expected frequencies are less than 5"
-msgstr ""
+msgstr "αναμένεται οι συχνότητες να είναι λιγότερο από το 5"
 
 msgid "Row percentages"
-msgstr ""
+msgstr "Ποσοστό γραμμής"
 
 msgid "Column percentages"
-msgstr ""
+msgstr "Ποσοστό στήλης"
 
 msgid "No percentages"
-msgstr ""
+msgstr "Χωρίς ποσοστά"
 
 msgid "Compute Percentages"
-msgstr ""
+msgstr "Υπολογίστε τα Ποσοστά"
 
 msgid "Chi-square test of independence"
-msgstr ""
+msgstr "χ^2 τέστ ανεξαρτησίας"
 
 msgid "Print expected frequencies"
-msgstr ""
+msgstr "Εκτύπωση αναμενόμενων συχνοτήτων"
 
 msgid "Fisher's exact test"
-msgstr ""
+msgstr "Ακριβές τεστ του Fisher"
 
 msgid "Hypothesis Tests"
-msgstr ""
+msgstr "Τέστ Υπόθεσης"
 
 msgid "Multi-Way Table"
-msgstr ""
+msgstr "Πίνακας Multi-Way"
 
 msgid "Control variable(s) (pick one or more)"
-msgstr ""
+msgstr "Μεταβλητή-ες ελέγχου (επιλέξτε μία ή παραπάνω)"
 
 msgid "You must select row, column, and control variables"
-msgstr ""
+msgstr "Πρέπει να επιλέξετε γραμμή, στήλη, και μεταβλητές ελέγχου"
 
 msgid "Row, column, and control variables must be different."
-msgstr ""
+msgstr "Γραμμή, στήλη και μεταβλητές ελέγχου πρέπει να είναι διαφορετικές."
 
 msgid "Enter Two-Way Table"
-msgstr ""
+msgstr "Εισάγετε πίνακα Two-Way"
 
 msgid "Number of valid entries (%d)\nnot equal to number of rows (%d) * number of columns (%d)."
-msgstr ""
+msgstr "Ο αριθμός έγκυρων καταχωρήσεων (%d)\nδεν είναι ίσος με τον αριθμό των γραμμών (%d) * τον αριθμό των στηλών (%d)."
 
 msgid "Row names are not unique."
-msgstr ""
+msgstr "Τα ονόματα των γραμμών δεν είναι μοναδικά."
 
 msgid "Column names are not unique."
-msgstr ""
+msgstr "Τα ονόματα των στηλών δεν είναι το μοναδικά."
 
 msgid "Number of Columns:"
-msgstr ""
+msgstr "Αριθμός στηλών:"
 
 msgid "Enter counts:"
-msgstr ""
+msgstr "Εισάγετε μετρήσεις:"
 
 msgid "Two Variances F-Test"
-msgstr ""
+msgstr "Δύο διακυμάνσεις F-Test"
 
 msgid "Bartlett's Test"
-msgstr ""
+msgstr "Τεστ Bartlett"
 
 msgid "Levene's Test"
-msgstr ""
+msgstr "Τεστ Levene"
 
 msgid "There is no active data set."
-msgstr ""
+msgstr "Δεν υπάρχει ενεργό σύνολο δεδομένων."
 
 msgid "is not a data frame and cannot be attached."
-msgstr ""
+msgstr "δεν είναι ένα πλαίσιο δεδομένων και δεν μπορούν να συνδεθούν."
 
 msgid "The dataset %s has %d rows and %d columns."
-msgstr ""
+msgstr "Το σύνολο των δεδομένων %s έχει %d γραμμές και %d στήλες."
 
 msgid "There is no active model."
-msgstr ""
+msgstr "Δεν υπάρχει ενεργό μοντέλο."
 
 msgid "argument must be a square, symmetric, numeric covariance matrix"
-msgstr ""
+msgstr "το επιχείρημα αυτό πρέπει να είναι ένας τετράγωνος, συμμετρικός, αριθμητικός πίνακας συνδιακύμανσης"
 
 msgid "there are fewer than 3 items in the scale"
-msgstr ""
+msgstr "υπάρχουν λιγότερα από 3 στοιχεία στην κλίμακα"
 
 msgid "Argument response must be numeric."
-msgstr ""
+msgstr "Η απάντηση επιχείρημα αυτή πρέπει να είναι αριθμητική."
 
 msgid "Argument factor1 must be a factor."
-msgstr ""
+msgstr "Το επιχείρημα factor1 πρέπει να είναι ένας παράγοντας."
 
 msgid "Arguments factor1 and factor2 must be factors."
-msgstr ""
+msgstr "Το επιχείρημα factor1 και factor2 πρέπει να είναι παράγοντες."
 
 msgid "Number of groups for factor2, %d, exceeds number of distinct colours, %d."
-msgstr ""
+msgstr "Ο αριθμός των ομάδων για factor2, %d, υπερβαίνει τον αριθμό των διαφορετικών χρωμάτων, %d."
 
 msgid "The number of bins exceeds the number of data values"
-msgstr ""
+msgstr "Ο αριθμός των κάδων υπερβαίνει τον αριθμό των τιμών των δεδομένων"
 
 msgid "Number of groups (%d) exceeds number of colors (%d)."
-msgstr ""
+msgstr "Ο αριθμός των ομάδων (%d) υπερβαίνει τον αριθμό των χρωμάτων (%d)"
 
 msgid "groups variable must be a factor."
-msgstr ""
+msgstr "οι ομάδες μεταβλητής πρέπει να είναι ένας παράγοντας."
 
 msgid "cannot plot both multiple surfaces and residuals"
-msgstr ""
+msgstr "δεν μπορεί να σχεδιάσει τόσο πολλές επιφάνειες και κατάλοιπα"
 
 msgid "not supplied"
-msgstr ""
+msgstr "δεν παρέχονται"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "There fewer than %d factors in the active data set."
-msgstr ""
+msgstr "Υπάρχουν λιγότερα από %d παράγοντες στο ενεργό σύνολο δεδομένων."
 
 msgid "There are no factors in the active data set."
-msgstr ""
+msgstr "Δεν υπάρχουν στοιχεία στο ενεργό σύνολο δεδομένων."
 
 msgid "There fewer than %d two-level factors in the active data set."
-msgstr ""
+msgstr "Υπάρχουν λιγότεροι από %d παράγοντες δύο επιπέδων στο ενεργό σύνολο δεδομένων."
 
 msgid "There are no two-level factors in the active data set."
-msgstr ""
+msgstr "Δεν υπάρχουν στοιχεία σε δύο επίπεδα στο ενεργό σύνολο δεδομένων."
 
 msgid "There fewer than %d numeric variables in the active data set."
-msgstr ""
+msgstr "Υπάρχουν λιγότερες από %d αριθμητικές μεταβλητές στο ενεργό σύνολο δεδομένων."
 
 msgid "There are no numeric variables in the active data set."
-msgstr ""
+msgstr "Δεν υπάρχουν αριθμητικές μεταβλητές στο ενεργό σύνολο δεδομένων."
 
 msgid "There fewer than %d variables in the active data set."
-msgstr ""
+msgstr "Υπάρχουν λιγότερες από %d μεταβλητές στο ενεργό σύνολο δεδομένων."
 
 msgid "There are no variables in the active data set."
-msgstr ""
+msgstr "Δεν υπάρχουν μεταβλητές στο ενεργό σύνολο δεδομένων."
 
 msgid "%s %s already exists.\nOverwrite %s?"
-msgstr ""
+msgstr "% s% s υπάρχει ήδη. \ nΑντικατάσταση %s;"
 
 msgid "Plot by:"
-msgstr ""
+msgstr "Γράφημα από:"
 
 msgid "Plot by groups"
-msgstr ""
+msgstr "Γράφημα από ομάδες:"
 
 msgid "Plot lines by group"
-msgstr ""
+msgstr "Γράφημα γραμμών από ομάδες:"
 
 msgid "There no factors in the active data set."
-msgstr ""
+msgstr "Δεν υπάρχουν παράγοντες στο ενεργό σύνολο δεδομένων."
 
 msgid "Groups"
-msgstr ""
+msgstr "Ομάδες"
 
 msgid "Groups variable (pick one)"
-msgstr ""
+msgstr "Μεταβλητή ομάδων (επιλέξτε μία)"
 
 msgid "Position legend with mouse click"
-msgstr ""
+msgstr "Θέση legend με το κλικ του ποντικιού"
 
 msgid "<No groups selected>"
-msgstr ""
+msgstr "<Δεν επιλέχτηκαν ομάδες>"
 
 msgid "Difference:"
-msgstr ""
+msgstr "Διαφορά:"
 
 msgid "Variables (double-click to formula)"
-msgstr ""
+msgstr "Μεταβλητές (διπλό κλικ στον τύπο)"
 
 msgid "Model Formula:"
-msgstr ""
+msgstr "Τύπος Μοντέλου:"
 
 msgid "No appropriate %s method exists\nfor a model of this class."
-msgstr ""
+msgstr "Δεν υπάρχει κατάλληλη μέθοδος %s\nγια ένα μοντέλο αυτής της κατηγορίας."
 
 msgid "The model is not of class \"%s\"."
-msgstr ""
+msgstr "Το μοντέλο δεν είναι της κατηγορίας \"%s\"."
 
 msgid "Open script file..."
-msgstr ""
+msgstr "Άνοιγμα αρχείου σεναρίου ..."
 
 msgid "Save script..."
-msgstr ""
+msgstr "Αποθήκευση σεναρίου..."
 
 msgid "Save script as..."
-msgstr ""
+msgstr "Αποθήκευση σεναρίου ως..."
 
 msgid "Save output..."
-msgstr ""
+msgstr "Αποθήκευση εξόδου..."
 
 msgid "Save output as..."
-msgstr ""
+msgstr "Αποθήκευση εξόδου ως..."
 
 msgid "Save R workspace..."
-msgstr ""
+msgstr "Αποθήκευση R workspace..."
 
 msgid "Save R workspace as..."
-msgstr ""
+msgstr "Αποθήκευση R workspace ως..."
 
 msgid "From Commander"
-msgstr ""
+msgstr "Από Commander"
 
 msgid "From Commander and R"
-msgstr ""
+msgstr "Από Commander και R"
 
 msgid "Exit"
-msgstr ""
+msgstr "Έξοδος"
 
 msgid "File"
-msgstr ""
+msgstr "Αρχείο"
 
 msgid "Edit"
 msgstr "Επεξεργασία"
