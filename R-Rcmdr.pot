@@ -3394,405 +3394,405 @@ msgid "Partial obeying marginality (\"Type II\")"
 msgstr "Μερική περιθωριοποίηση (\"Type II\")"
 
 msgid "Partial ignoring marginality (\"Type III\")"
-msgstr ""
+msgstr "Μερική αγνοώηση περιθωριοποίησης (\"τύπου ΙΙΙ\")"
 
 msgid "Type III tests require careful attention to contrast coding."
-msgstr ""
+msgstr "Δοκιμές τύπου ΙΙΙ απαιτούν ιδιαίτερη προσοχή για να αντίθεση κωδικοποίησης."
 
 msgid "There is no appropriate anova method for a model of this class."
-msgstr ""
+msgstr "Δεν υπάρχει κατάλληλη μέθοδος anova για ένα μοντέλο αυτής της κατηγορίας."
 
 msgid "Duplicate menu names:"
-msgstr ""
+msgstr "Πανομοιότυπα ονόματα μενού:"
 
 msgid "Strip chart..."
-msgstr ""
+msgstr "Διάγραμμα  Strip ..."
 
 msgid "Strip Chart"
-msgstr ""
+msgstr "Διάγραμμα της Strip"
 
 msgid "Factors (pick zero or more)"
-msgstr ""
+msgstr "Παράγοντες (πάρτε το μηδέν ή περισσότερα)"
 
 msgid "Duplicate Values"
-msgstr ""
+msgstr "Διπλές τιμές"
 
 msgid "Stack"
-msgstr ""
+msgstr "Stack"
 
 msgid "Jitter"
-msgstr ""
+msgstr "Jitter"
 
 msgid "Remove Rows from Active Data Set"
-msgstr ""
+msgstr "Αφαιρέστε γραμμές από τα ενεργά σύνολα δεδομένων"
 
 msgid "Remove row(s) from active data set..."
-msgstr ""
+msgstr "Αφαιρέστε γραμμή(ες) από τα ενεργά σύνολα δεδομένων..."
 
 msgid "No rows to remove"
-msgstr ""
+msgstr "Δεν υπάρχουν γραμμές να αφαιρεθούν"
 
 msgid "Indices or quoted names of row(s) to remove"
-msgstr ""
+msgstr "Δείκτες εισηγμένες ή τα ονόματα της σειράς(ων)  να αφαιρεθούν"
 
 msgid "Akaike Information Criterion (AIC)"
-msgstr ""
+msgstr "Akaike Πληροφορίες Κριτηρίου (AIC)"
 
 msgid "Bayesian Information Criterion (BIC)"
-msgstr ""
+msgstr "Bayesian Πληροφορίες Κριτηρίου(BIC)"
 
 msgid "Change working directory..."
-msgstr ""
+msgstr "Αλλάξτε τον κατάλογο εργασίας ..."
 
 msgid "Log x-axis"
-msgstr ""
+msgstr "Συνδέσθε τον άξονα χ"
 
 msgid "Log y-axis"
-msgstr ""
+msgstr "Συνδέσθε τον άξονα ψ"
 
 msgid "from text file, clipboard, or URL..."
-msgstr ""
+msgstr "από το αρχείο κειμένου, πρόχειρο, ή URL ."
 
 msgid "Read Text Data From File, Clipboard, or URL"
-msgstr ""
+msgstr "Διαβάστε δεδομένα κειμένου από αρχείο, πρόχειρο, ή URL"
 
 msgid "Location of Data File"
-msgstr ""
+msgstr "Θέση του αρχείου δεδομένων"
 
 msgid "Local file system"
-msgstr ""
+msgstr "Τοπικό σύστημα αρχείων"
 
 msgid "Clipboard"
-msgstr ""
+msgstr "Πρόχειρο"
 
 msgid "Internet URL"
-msgstr ""
+msgstr "URL στο Internet"
 
 msgid "Friedman rank-sum test..."
-msgstr ""
+msgstr "Δοκιμή Friedman rank-sum ..."
 
 msgid "Friedman Rank Sum Test"
-msgstr ""
+msgstr "Δοκιμή Friedman Rank Sum"
 
 msgid "Repeated-Measures Variables (pick two or more)"
-msgstr ""
+msgstr "Επαναληπτικές μετρήσεις μεταβλητές (πάρτε δύο ή περισσότερες)"
 
 msgid "Undo"
-msgstr ""
+msgstr "Αναίρεση"
 
 msgid "Redo"
-msgstr ""
+msgstr "Επανάληψη"
 
 msgid "ANOVA table..."
-msgstr ""
+msgstr "Πίνακας ANOVA"
 
 # messages added to version 1.4-2
 
 msgid "Location not specified."
-msgstr ""
+msgstr "Θέση που δεν κατονομάζονται."
 
 # messages added to version 1.5-0
 
 #     "Models -> Stepwise model selection" dialog and menu item
 
 msgid "Stepwise model selection..."
-msgstr ""
+msgstr "Σταδιακή επιλογή μοντέλου..."
 
 msgid "Stepwise Model Selection"
-msgstr ""
+msgstr "Σταδιακή επιλογή μοντέλου"
 
 msgid "Direction"
-msgstr ""
+msgstr "Κατεύθυνση"
 
 msgid "backward/forward"
-msgstr ""
+msgstr "Πίσω/Μπροστά"
 
 msgid "forward/backward"
-msgstr ""
+msgstr "Μπορστά/Πίσω"
 
 msgid "backward"
-msgstr ""
+msgstr "Πίσω"
 
 msgid "forward"
-msgstr ""
+msgstr "Μπροστά"
 
 msgid "Criterion"
-msgstr ""
+msgstr "Κριτήριο"
 
 msgid "BIC"
-msgstr ""
+msgstr "BIC"
 
 msgid "AIC"
-msgstr ""
+msgstr "AIC"
 
 #      "Models -> Subset model selection" dialog and menu item
 
 msgid "Subset model selection..."
-msgstr ""
+msgstr "Υποσύνολο επιλογής μοντέλου ..."
 
 msgid "Subset Model Selection"
-msgstr ""
+msgstr "Υποσύνολο επιλογής μοντέλου"
 
 msgid "Criterion for Model Plot"
-msgstr ""
+msgstr "Κριτήριο για το μοντέλο Plot"
 
 msgid "Mallows Cp"
-msgstr ""
+msgstr "Mallows Cp"
 
 msgid "Adjusted R-sq."
-msgstr ""
+msgstr "Προσαρμοσμένη R-sq."
 
 msgid "R-squared"
-msgstr ""
+msgstr "R-squared"
 
 msgid "Number of best models\nof each size:"
-msgstr ""
+msgstr "Αριθμός καλύτερων μοντέλα \ κάθε μεγέθους:"
 
 msgid "Maximum size:"
-msgstr ""
+msgstr "Μέγιστο μέγεθος:"
 
 #  	"Data -> Merge data sets" menu item and dialog
 
 msgid "Merge data sets..."
-msgstr ""
+msgstr "Συγχώνευση συνόλων δεδομένων ..."
 
 msgid "Merge Data Sets"
-msgstr ""
+msgstr "Συγχώνευση συνόλων δεδομένων"
 
 msgid "First Data Set (pick one)"
-msgstr ""
+msgstr "Πρώτη ομάδα δεδομένων (επιλέξτε μια)"
 
 msgid "Second Data Set (pick one)"
-msgstr ""
+msgstr "Δεύτερη ομάδα δεδομένων (επιλέξτε μια)"
 
 msgid "Merge rows"
-msgstr ""
+msgstr "Συγχώνευση γραμμών"
 
 msgid "Merge columns"
-msgstr ""
+msgstr "Συγχώνευση στήλων"
 
 msgid "Direction of Merge"
-msgstr ""
+msgstr "Κατεύθυνση συγχώνευσης"
 
 msgid "You cannot merge a data set with itself."
-msgstr ""
+msgstr "Δεν μπορείτε να συγχωνεύσετε ένα σύνολο δεδομένων με τον εαυτό του."
 
 msgid "Name for merged data set:"
-msgstr ""
+msgstr "Όνομα για νέα ομάδα δεδομένων:"
 
 msgid "Merge only common\nrows or columns"
-msgstr ""
+msgstr "Συγχώνευση μόνο κοινών \ γραμμών ή στηλών"
 
 #  	"Data -> Active data set -> Aggregate variables in active data set" menu item and dialog
 
 msgid "Aggregate variables in active data set..."
-msgstr ""
+msgstr "Οι συνολικές μεταβλητές στο ενεργό σύνολο δεδομένων ..."
 
 msgid "Aggregate Observations"
-msgstr ""
+msgstr "Συγκεντρωτικές παρατηρήσεις"
 
 msgid "Variables to aggregate\n(pick one or more)"
-msgstr ""
+msgstr "Μεταβλητές να συσσωματώνονται \n(επιλέξτε ένα ή περισσότερα)"
 
 msgid "Aggregate by\n(pick one or more)"
-msgstr ""
+msgstr "Συγκεντρωτικά από \ n (επιλέξτε ένα ή περισσότερα)"
 
 msgid "Sum"
-msgstr ""
+msgstr "Άθροισμα"
 
 msgid "You must select at least one variable to aggregate."
-msgstr ""
+msgstr "Πρέπει να επιλέξετε τουλάχιστον μία μεταβλητή για τη συγκέντρωση."
 
 msgid "You must select at least one variable to aggregate by."
-msgstr ""
+msgstr "Πρέπει να επιλέξετε τουλάχιστον μία μεταβλητή για τη συγκέντρωση κατά."
 
 msgid "Variables to aggregate and those to aggregate by must be different."
-msgstr ""
+msgstr "Οι μεταβλητές που πρέπει να συγκεντρώσουν και εκείνα για το σύνολο της  πρέπει να είναι διαφορετικό."
 
 msgid "Name for aggregated data set:"
-msgstr ""
+msgstr "Όνομα για συγκεντρωτικά σύνολα δεδομένων:"
 
 #     miscellaneous 
 
 msgid "{\"R Data Files\" {\".rda\" \".Rda\" \".RDA\" \".RData\"}} {\"All Files\" {\"*\"}}"
-msgstr ""
+msgstr "{\"R Data Files\" {\".rda\" \".Rda\" \".RDA\" \".RData\"}} {\"Όλα τα αρχεία\" {\"*\"}}"
 
 msgid "No data set selected."
-msgstr ""
+msgstr "Δεν έχουν οριστεί δεδομένα που έχουν επιλεγεί."
 
 msgid "Help on selected data set"
-msgstr ""
+msgstr "Βοήθεια για επιλεγμένο σύνολο δεδομένων"
 
 msgid "Population mean != mu0"
-msgstr ""
+msgstr "Μέσος όρος Πληθυσμού != mu0"
 
 msgid "Population proportion != p0"
-msgstr ""
+msgstr "Μέσος όρος Πληθυσμού != p0"
 
 msgid "Models do not have the same family."
-msgstr ""
+msgstr "Τα μοντέλα δεν έχουν την ίδια οικογένεια."
 
 msgid "Pairwise p-values\nfor Pearson or Spearman correlations"
-msgstr ""
+msgstr "Pairwise p-values\nfor Pearson or Spearman correlations"
 
 msgid "The Windows version of the R Commander works best under RGui\nwith the single-document interface (SDI); see ?Commander."
-msgstr ""
+msgstr "Η έκδοση των Windows του R διοικητή λειτουργεί καλύτερα κάτω από RGui \ με το περιβάλλον εργασίας ενός εγγράφου (SDI)? δείτε;Commander."
 
 # messages added to version 1.6-0
 
 	# for Levene test
 
 msgid "median"
-msgstr ""
+msgstr "Διάμεσος"
 
 msgid "Center"
-msgstr ""
+msgstr "Κέντρο"
 
 	# for scatterplot
 
 msgid "Smooth line"
-msgstr ""
+msgstr "Ομαλή γραμμή"
 
 msgid "Show spread"
-msgstr ""
+msgstr "Εμφάνιση εξάπλωση"
 
 	# for AV plots
 	
 msgid "Identify points with mouse?\nRight-click to exit."
-msgstr ""
+msgstr "Προσδιορίστε τα σημεία με το ποντίκι; \ δεξί κλικ για να βγείτε."
 
 	# for interactive point identification
 	
 msgid "Use left mouse button to identify points,\n"
-msgstr ""
+msgstr "Χρησιμοποιήστε το αριστερό πλήκτρο του ποντικιού για να εντοπιστούν τα σημεία, \ n"
 
 msgid "right button to exit."
-msgstr ""
+msgstr "Δεξί πλήκτρο για να εξέλθετε."
 
 msgid "esc key to exit."
-msgstr ""
+msgstr "Πλήκτρο ESC για να βγείτε."
 
 	# menus
 	
 msgid "Start R help system"
-msgstr ""
+msgstr "Ξεκινήστε R σύστημα βοήθειας"
 
 # messages added to version 1.6-4 
 #  to correct order of file extensions
 
 msgid "{\"All Files\" {\"*\"}} {\"Script Files\" {\".R\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"Script Files\" {\".R\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"Output Files\" {\".txt\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"Output Files\" {\".txt\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"Text Files\" {\".txt\" \".TXT\" \".dat\" \".DAT\" \".csv\" \".CSV\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"Text Files\" {\".txt\" \".TXT\" \".dat\" \".DAT\" \".csv\" \".CSV\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"SPSS portable files\" {\".por\" \".POR\"}} {\"SPSS save files\" {\".sav\" \".SAV\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"SPSS portable files\" {\".por\" \".POR\"}} {\"SPSS save files\" {\".sav\" \".SAV\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"Minitab portable files\" {\".mtp\" \".MTP\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"Minitab portable files\" {\".mtp\" \".MTP\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"STATA datasets\" {\".dta\" \".DTA\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"STATA datasets\" {\".dta\" \".DTA\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"MS Access database\" {\".mdb\" \".MDB\"}} {\"MS Access 2007 database\" {\".accdb\" \".ACCDB\"}} {\"dBase-like file\" {\".dbf\" \".DBF\"}} {\"MS Excel 2007 file\" {\".xlsx\" \".XLSX\"}} {\"MS Excel file\" {\".xls\" \".XLS\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"MS Access database\" {\".mdb\" \".MDB\"}} {\"MS Access 2007 database\" {\".accdb\" \".ACCDB\"}} {\"dBase-like file\" {\".dbf\" \".DBF\"}} {\"MS Excel 2007 file\" {\".xlsx\" \".XLSX\"}} {\"MS Excel file\" {\".xls\" \".XLS\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"R Data Files\" {\".RData\" \".rda\" \".Rda\" \".RDA\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"R Data Files\" {\".RData\" \".rda\" \".Rda\" \".RDA\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"PNG Files\" {\".png\" \".PNG\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"PNG Files\" {\".png\" \".PNG\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"JPEG Files\" {\".jpg\" \".JPG\" \".jpeg\" \".JPEG\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"JPEG Files\" {\".jpg\" \".JPG\" \".jpeg\" \".JPEG\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"PDF Files\" {\".pdf\" \".PDF\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"PDF Files\" {\".pdf\" \".PDF\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"Postscript Files\" {\".ps\" \".PS\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"Postscript Files\" {\".ps\" \".PS\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"Encapsulated Postscript Files\" {\".eps\" \".EPS\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"Encapsulated Postscript Files\" {\".eps\" \".EPS\"}}"
 
 # messages added to version 1.7-0
 
 msgid "Reset"
-msgstr ""
+msgstr "Επαναφορά"
 
 msgid "Coefficient of Variation"
-msgstr ""
+msgstr "Συντελεστής μεταβλητότητας"
 
 msgid "Skewness"
-msgstr ""
+msgstr "Skewness"
 
 msgid "Kurtosis"
-msgstr ""
+msgstr "Kurtosis"
 
 msgid "Type 1"
-msgstr ""
+msgstr "Τύπος 1"
 
 msgid "Type 2"
-msgstr ""
+msgstr "Τύπος 2"
 
 msgid "Type 3"
-msgstr ""
+msgstr "Τύπος 3"
 
 msgid "Missing Data"
-msgstr ""
+msgstr "Λείπουν δεδομένα"
 
-msgid "Use complete cases"
-msgstr ""
+msgid "Use complete cases" 
+msgstr "Χρησιμοποιήστε πλήρη τις υποθέσεις"
 
 msgid "Use pairwise-complete cases"
-msgstr ""
+msgstr "Χρήση υπόθεσης pairwise-complete"
 
 # messages added to version 1.7-4
 
 msgid "Component scores are not available when subset is specified."
-msgstr ""
+msgstr "Συστατικό αποτελέσματα δεν είναι διαθέσιμο όταν υποσύνολο έχει καθοριστεί."
 
 msgid "Factor scores are not available when subset is specified."
-msgstr ""
+msgstr "Παράγοντας αποτελέσματα δεν είναι διαθέσιμος όταν υποσύνολο έχει καθοριστεί."
 
 # messages added to version 1.8-0
 
 msgid "Confirmatory Factor Analysis"
-msgstr ""
+msgstr "Επιβεβαιωτικής παραγοντικής ανάλυσης"
 
 msgid "Fewer than 2 variables selected to load on factor."
-msgstr ""
+msgstr "Λιγότερες από 2 μεταβλητές που επιλέγονται για να φορτώσει σε παράγοντα."
 
 msgid "Define factor"
-msgstr ""
+msgstr "Ορίστε παράγοντα"
 
 msgid "Select variables\nloading on factor"
-msgstr ""
+msgstr "Επιλέξτε μεταβλητές \ φόρτωσης επί του παράγοντα"
 
 msgid "Covariance"
-msgstr ""
+msgstr "Συνδιακύμανση"
 
 msgid "Correlation"
-msgstr ""
+msgstr "Συσχέτιση"
 
 msgid "Matrix to Analyze"
-msgstr ""
+msgstr "Matrix για να αναλύσει"
 
 msgid "Correlated"
-msgstr ""
+msgstr "Συσχετίζεται"
 
 msgid "Orthogonal"
-msgstr ""
+msgstr "Ορθογώνια"
 
 msgid "Factor Correlations"
-msgstr ""
+msgstr "Παράγοντας συσχετίσεων"
 
 msgid "There are too many factors."
-msgstr ""
+msgstr "Υπάρχουν πάρα πολλοί παράγοντες."
 
 msgid "Identifying Constraints"
 msgstr "Προσδιορίζοντας περιορισμούς"
