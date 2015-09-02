@@ -3998,107 +3998,107 @@ msgid "Number of points to identify"
 msgstr ""
 
 msgid "Number of points to identify  \nin each panel and group "
-msgstr ""
+msgstr "Ο αριθμός των σημείων για τον εντοπισμό \nσε κάθε πάνελ και ομάδα"
 
 msgid "Added-Variable Plots"
-msgstr ""
+msgstr "Added-Variable Plots"
 
 msgid "Component+Residual Plots"
-msgstr ""
+msgstr "Γραφήματα Στοιχείων+Καταλοίπων"
 
 msgid "Influence Plot"
-msgstr ""
+msgstr "Γράφημα Επίδρασης"
 
     # support for R Markdown and knitr
 
 msgid "Generate HTML report"
-msgstr ""
+msgstr "Δημιουργία αναφοράς HTML"
 
 msgid "Generate PDF report"
-msgstr ""
+msgstr "Δημιουργία αναφοράς PDF"
 
 msgid "R Markdown"
-msgstr ""
+msgstr "R Markdown"
 
 msgid "knitr Document"
-msgstr ""
+msgstr "Έγγραφο knitr"
 
 msgid "Open R Markdown file..."
-msgstr ""
+msgstr "Άνοιγμα αρχείου R Markdown..."
 
 msgid "Open knitr file..."
-msgstr ""
+msgstr "Άνοιγμα αρχείου knitr..."
 
 msgid "Save R Markdown file..."
-msgstr ""
+msgstr "Αποθήκευση αρχείου R Markdown..."
 
 msgid "Save knitr file..."
-msgstr ""
+msgstr "Αποθήκευση αρχείου knitr..."
 
 msgid "Save knitr file?"
-msgstr ""
+msgstr "Αποθήκευση αρχείου knitr;"
 
 msgid "Save current Rmd file?"
-msgstr ""
+msgstr "Αποθήκευση τρέχων αρχείου Rmd;"
 
 msgid "Save current Rnw file?"
-msgstr ""
+msgstr "Αποθήκευση τρέχων αρχείου Rnw;"
 
 msgid "Save R Markdown file as..."
-msgstr ""
+msgstr "Αποθήκευση τρέχων αρχείου R Markdown..."
 
 msgid "Save knitr file as..."
-msgstr ""
+msgstr "Αποθήκευση αρχείου knitr ως..."
 
 msgid "R Markdown file saved to"
-msgstr ""
+msgstr "Το αρχείο R Markdown αποθηκεύτηκε στο"
 
 msgid "knitr file saved to"
-msgstr ""
+msgstr "το αρχείο knitr αποθηκεύτηκε στο"
 
 msgid "{\"All Files\" {\"*\"}} {\"R Markdown Files\" {\".Rmd\" \".rmd\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"Τα αρχεία R Markdown\" {\".Rmd\" \".rmd\"}}"
 
 msgid "{\"All Files\" {\"*\"}} {\"knitr Files\" {\".Rmd\" \".rmd\" \".Snw\" \".snw\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"Τα αρχεία knitr\" {\".Rmd\" \".rmd\"}}"
 
 msgid "Delete previously created knitr\ngraphics files (recommended)?"
-msgstr ""
+msgstr "Διαγραφή προηγούμενου δημιουργημένου knitr\nαρχεία γραφικών (συνιστάται);"
 
     # setting and saving options
 
 msgid "Ask to exit Commander"
-msgstr ""
+msgstr "Ζητήστε να βγείτε απο τον Commander"
 
 msgid "Ask to save documents on exit"
-msgstr ""
+msgstr "Ζητήστε να αποθηκεύσετε έγγραφα κατά την έξοδο"
 
 msgid "Quit R on exit"
-msgstr ""
+msgstr "Παραίτηση R στην έξοδο"
 
 msgid "Number messages"
-msgstr ""
+msgstr "Αριθμός μηνυμάτων"
 
 msgid "Retain messages"
-msgstr ""
+msgstr "Διατήρηση μηνυμάτων"
 
 msgid "Use R Markown"
-msgstr ""
+msgstr "Χρήση R Markdown"
 
 msgid "Use knitr"
-msgstr ""
+msgstr "Χρήση knitr"
 
 msgid "Select file"
-msgstr ""
+msgstr "Επιλογή αρχείου"
 
 msgid "R Markdown template file"
-msgstr ""
+msgstr "Πρότυπο αρχείο R Markdown"
 
 msgid "R knitr template file"
-msgstr ""
+msgstr "Πρότυπο αρχείο R Markdown R knitr"
 
 msgid "Suppress icon images"
-msgstr ""
+msgstr "Απόκρυψη εικόνων icon"
 
 msgid "Retain dialog selections"
 msgstr ""
