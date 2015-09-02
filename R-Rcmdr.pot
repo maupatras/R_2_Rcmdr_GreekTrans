@@ -2540,382 +2540,382 @@ msgid "Exponential Quantiles"
 msgstr "Εκθετική ποσοστημορίων"
 
 msgid "Exponential Probabilities"
-msgstr ""
+msgstr "Eκθετικές Πιθανότητες"
 
 msgid "Uniform Quantiles"
-msgstr ""
+msgstr "Ενιαία ποσοστημόρια"
 
 msgid "Uniform Probabilities"
-msgstr ""
+msgstr "Ενιαίες Πιθανότητες"
 
 msgid "Beta Quantiles"
-msgstr ""
+msgstr "Ποσοστημόρια Beta"
 
 msgid "Beta Probabilities"
-msgstr ""
+msgstr "Πιθανότητες Beta"
 
 msgid "Cauchy Quantiles"
-msgstr ""
+msgstr "Ποσοστημόρια Cauchy"
 
 msgid "Cauchy Probabilities"
-msgstr ""
+msgstr "Πιθανότητες Cauchy"
 
 msgid "Logistic Quantiles"
-msgstr ""
+msgstr "Λογιστικά Ποσοστημόρια"
 
 msgid "Logistic Probabilities"
-msgstr ""
+msgstr "Λογιστικές Πιθανότητες"
 
 msgid "Lognormal Quantiles"
-msgstr ""
+msgstr "Λογαριθμοκανονικά ποσοστημόρια"
 
 msgid "Lognormal Probabilities"
-msgstr ""
+msgstr "Λογαριθμοκανονικές Πιθανότητες"
 
 msgid "Gamma Quantiles"
-msgstr ""
+msgstr "Ποσοστημόρια Gamma"
 
 msgid "Gamma Probabilities"
-msgstr ""
+msgstr "Πιθανότητες Gamma"
 
 msgid "Weibull Quantiles"
-msgstr ""
+msgstr "Ποσοστημόρια Weibull"
 
 msgid "Weibull Probabilities"
-msgstr ""
+msgstr "Πιθανότητες Weibull"
 
 msgid "Gumbel Distribution"
-msgstr ""
+msgstr "Κατανομή Gumbel"
 
 msgid "Shape (log shape)"
-msgstr ""
+msgstr "Σχήμα (λογαριθμικό σχήμα)"
 
 msgid "Scale (log scale)"
-msgstr ""
+msgstr "Κλίμακα (λογαριθμική κλίμακα)"
 
 msgid "Gumbel Probabilities"
-msgstr ""
+msgstr "Πιθανότητες Gumbel"
 
 msgid "Probability of success must be between 0 and 1."
-msgstr ""
+msgstr "Η Πιθανότητα επιτυχίας πρέπει να είναι μεταξύ 0 και 1"
 
 msgid "Poisson Quantiles"
-msgstr ""
+msgstr "Ποσοστημόρια Poisson"
 
 msgid "Geometric Quantiles"
-msgstr ""
+msgstr "Γεωμετρικά Ποσοστημόρια"
 
 msgid "Geometric Probabilities"
-msgstr ""
+msgstr "Γεωμετρικές Πιθανότητες"
 
 msgid "Hypergeometric Quantiles"
-msgstr ""
+msgstr "Υπεργεωμετρικών Ποσοστημορίων"
 
 msgid "The m parameter was not specified."
-msgstr ""
+msgstr "Η παράμετρος m δεν έχει καθοριστεί"
 
 msgid "The m parameter cannot be negative."
-msgstr ""
+msgstr "Η παράμετρος m δεν μπορεί να είναι αρνητική"
 
 msgid "The n parameter was not specified."
-msgstr ""
+msgstr "Η παράμετρος n δεν έχει καθοριστεί"
 
 msgid "The n parameter cannot be negative."
-msgstr ""
+msgstr "Η παράμετρος n δεν μπορεί να είναι αρνητική"
 
 msgid "The k parameter was not specified."
-msgstr ""
+msgstr "Η παράμετρος k δεν έχει καθοριστεί"
 
 msgid "The k parameter cannot be greater than m + n."
-msgstr ""
+msgstr "Η παράμετρος k δεν μπορεί να είναι μεγαλύτερη από m + n"
 
 msgid "The k parameter cannot be negative."
-msgstr ""
+msgstr "Η παράμετρος k δεν μπορεί να είναι αρνητική"
 
 msgid "m (number of white balls in the urn)"
-msgstr ""
+msgstr "m (αριθμός άσπρων μπάλων στο δοχείο)"
 
 msgid "n (number of black balls in the urn)"
-msgstr ""
+msgstr "n (αριθμός μαύρων μπάλων στο δοχείο)"
 
 msgid "k (number of balls drawn from the urn)"
-msgstr ""
+msgstr "k (αριθμός των μπάλων στο δοχείο)"
 
 msgid "Hypergeometric Probabilities"
-msgstr ""
+msgstr "Υπεργεωμετρικών Πιθανότητες"
 
 msgid "Negative Binomial Quantiles"
-msgstr ""
+msgstr "Αρνητικά Διωνυμικά ποσοστημόρια"
 
 msgid "Target number of successes not specified."
-msgstr ""
+msgstr "Ο Στόχος του αριθμού των επιτυχιών που δεν κατονομάζονται"
 
 msgid "Target number of successes cannot be negative."
-msgstr ""
+msgstr "Ο Στόχος του αριθμού των επιτυχιών δεν μπορεί να είναι αρνητικός"
 
 msgid "Target number of successes"
-msgstr ""
+msgstr "Στόχος αριθμού των επιτυχιών"
 
 msgid "Negative Binomial Probabilities"
-msgstr ""
+msgstr "Αρνητιέςή Διωνυμικές Πιθανότητες"
 
 msgid "Geometric Distribution"
-msgstr ""
+msgstr "Γεωμετρική Κατανομή"
 
 msgid "Hypergeometric Distribution"
-msgstr ""
+msgstr "Εκθετική Κατανομή"
 
 msgid "Negative Binomial Distribution"
-msgstr ""
+msgstr "Αρνητική Διωνυμική κατανομή"
 
 msgid "Sample from Normal Distribution"
-msgstr ""
+msgstr "Δείγμα από Κανονική Κατανομή"
 
 msgid "NormalSamples"
-msgstr ""
+msgstr "NormalSamples"
 
 msgid "Sample means"
-msgstr ""
+msgstr "Μέσο Δείγμα"
 
 msgid "Sample sums"
-msgstr ""
+msgstr "Δειγματικά ποσά"
 
 msgid "Sample standard deviations"
-msgstr ""
+msgstr "Πρότυπο δείγμα αποκλίσεων"
 
 msgid "Sample size must be positive."
-msgstr ""
+msgstr "Το μέγεθος του δείγματος πρέπει να είναι θετικός."
 
 msgid "Number of samples must be positive."
-msgstr ""
+msgstr "Ο Αριθμός δειγμάτων πρέπει να είναι θετικός."
 
 msgid "Number of samples (rows)"
-msgstr ""
+msgstr "Αριθμός δειγμάτων (σειρές)"
 
 msgid "Number of observations (columns)"
-msgstr ""
+msgstr "Αριθμός παρατηρήσεων (στήλες)"
 
 msgid "Add to Data Set:"
-msgstr ""
+msgstr "Προσθήκη στα δεδομένων:"
 
 msgid "Sample from t Distribution"
-msgstr ""
+msgstr "Δείγμα από Κατανομή t"
 
 msgid "tSamples"
-msgstr ""
+msgstr "tSamples"
 
 msgid "Sample from Chi-squared Distribution"
-msgstr ""
+msgstr "Δείγμα από χ^2 Κατανομή"
 
 msgid "ChisquareSamples"
-msgstr ""
+msgstr "Δείγματα χ^2"
 
 msgid "Sample from F Distribution"
-msgstr ""
+msgstr "Δείγμα από Κατανομή F"
 
 msgid "FSamples"
-msgstr ""
+msgstr "FSamples"
 
 msgid "Sample from Exponential Distribution"
-msgstr ""
+msgstr "Δείγμα από Εκθετική Κατανομή"
 
 msgid "ExponentialSamples"
-msgstr ""
+msgstr "Εκθετικό Δείγματα"
 
 msgid "Sample from Uniform Distribution"
-msgstr ""
+msgstr "Δείγμα από Ομοιόμορφη Κατανομή"
 
 msgid "UniformSamples"
-msgstr ""
+msgstr "Ομοιόμορφο Δείγματα"
 
 msgid "Sample from Beta Distribution"
-msgstr ""
+msgstr "Δείγμα από Κατανομή Beta"
 
 msgid "BetaSamples"
-msgstr ""
+msgstr "Δείγματα Beta"
 
 msgid "Sample from Cauchy Distribution"
-msgstr ""
+msgstr "Δείγμα από Κατανομή Cauchy"
 
 msgid "CauchySamples"
-msgstr ""
+msgstr "Cauchy Δείγματα"
 
 msgid "Sample from Logistic Distribution"
-msgstr ""
+msgstr "Δείγμα από Λογιστική Κατανομή"
  
 msgid "LogisticSamples"
-msgstr ""
+msgstr "Λογιστικά Δείγματα"
 
 msgid "Sample from Log-Normal Distribution"
-msgstr ""
+msgstr "Δείγμα από Λογαριθμική-κανονική Κατανομή"
 
 msgid "LogNormalSamples"
-msgstr ""
+msgstr "Λογαριθμική-κανονική Δείγματα"
 
 msgid "Sample from Gamma Distribution"
-msgstr ""
+msgstr "Δείγμα από Κατανομή Gamma"
 
 msgid "GammaSamples"
-msgstr ""
+msgstr "Gamma Δείγματα"
 
 msgid "Sample from Weibull Distribution"
-msgstr ""
+msgstr "Δείγμα από Κατανομή Weibull"
 
 msgid "WeibullSamples"
-msgstr ""
+msgstr "Weibull Δείγματα"
 
 msgid "Sample from Gumbel Distribution"
-msgstr ""
+msgstr "Δείγμα από Κατανομή Gumbel"
 
 msgid "GumbelSamples"
-msgstr ""
+msgstr "Gumbel Δείγματα"
 
 msgid "Sample from Binomial Distribution"
-msgstr ""
+msgstr "Δείγμα από Διωνυμική Κατανομή"
 
 msgid "BinomialSamples"
-msgstr ""
+msgstr "Διωνυμικά Δείγματα"
 
 msgid "Poisson mean cannot be negative." 
-msgstr ""
+msgstr "Ο όρος Poisson δεν μπορεί να είναι αρνητικός"
 
 msgid "Sample from Poisson Distribution"
-msgstr ""
+msgstr "Δείγμα από Κατανομή Poisson"
 
 msgid "PoissonSamples"
-msgstr ""
+msgstr "Poisson Δείγματα"
 
 msgid "Sample from Geometric Distribution"
-msgstr ""
+msgstr "Δείγμα από Γεωμετρική Κατανομή"
 
 msgid "GeometricSamples"
-msgstr ""
+msgstr "Γεωμετρικά Δείγματα"
 
 msgid "Sample from Hypergeometric Distribution"
-msgstr ""
+msgstr "Δείγμα από Εκθετική Κατανομή "
 
 msgid "HypergeometricSamples"
-msgstr ""
+msgstr "Εκθετικά Δείγματα"
 
 msgid "Sample from Negative Binomial Distribution"
-msgstr ""
+msgstr "Δείγμα από Αρνητική Διωνυμική Κατανομή"
 
 msgid "NegativeBinomialSamples"
-msgstr ""
+msgstr "Αρνητικά Διωνυμικά Δείγματα"
 
 msgid "Sample from normal distribution..." 
-msgstr ""
+msgstr "Δείγμα από κανονική κατανομή..."
              
 msgid "Sample from t distribution..."    
-msgstr ""
+msgstr "Δείγμα από κατανομή t..."
             
 msgid "Sample from chi-squared distribution..."  
-msgstr ""
+msgstr "Δείγμα από κατανομή χ^2..."
                                   
 msgid "Sample from F distribution..."        
-msgstr ""
+msgstr "Δείγμα από κατανομή F..."
                                                       
 msgid "Exponential distribution"             
-msgstr ""
+msgstr "Εκθετική κατανομή"
          
 msgid "Exponential quantiles..."              
-msgstr ""
+msgstr "Εκθετικά ποσοστημόρια..."
         
 msgid "Exponential probabilities..."          
-msgstr ""
+msgstr "Εκθετικές πιθανότητες..."
         
 msgid "Plot exponential distribution..."           
-msgstr ""
+msgstr "Εκθετική κατανομή Plot..."
    
 msgid "Sample from exponential distribution..."       
-msgstr ""
+msgstr "Δείγμα από εκθετική κατανομή..."
                                            
 msgid "Uniform distribution"                         
-msgstr ""
+msgstr "Ομοιόμορφη κατανομή"
 
 msgid "Uniform quantiles..."                         
-msgstr ""
+msgstr "Ενιαία ποσοστημόρια..."
 
 msgid "Uniform probabilities..."                     
-msgstr ""
+msgstr "Ενιαίες πιθανότητες..."
 
 msgid "Plot uniform distribution..."                 
-msgstr ""
+msgstr "Ομοιόμορφη κατανομή Plot"
 
 msgid "Sample from uniform distribution..."            
-msgstr ""
+msgstr "Δείγμα από ομοιόμορφη κατανομή..."
                                                
 msgid "Beta distribution"            
-msgstr ""
+msgstr "κατανομή Beta"
                
 msgid "Beta quantiles..."             
-msgstr ""
+msgstr "ποσοστημόρια Beta..."
                                                               
 msgid "Beta probabilities..."           
-msgstr ""
+msgstr "πιθανότητες Beta..."
                               
 msgid "Plot beta distribution..."                 
-msgstr ""
+msgstr "κατανομή Plot beta..."
                     
 msgid "Sample from beta distribution..."     
-msgstr ""
+msgstr "Δείγμα από κατανομή beta..."
                                                 
 msgid "Cauchy distribution"               
-msgstr ""
+msgstr "κατανομή Cauchy"
           
 msgid "Cauchy quantiles..."                 
-msgstr ""
+msgstr "ποσοστημόρια Cauchy"
         
 msgid "Cauchy probabilities..."             
-msgstr ""
+msgstr "πιθανότητες Cauchy..."
         
 msgid "Plot Cauchy distribution..."            
-msgstr ""
+msgstr "κατανομή Plot Cauchy..."
      
 msgid "Sample from Cauchy distribution..."      
-msgstr ""
+msgstr "Δείγμα από κατανομή Cauchy..."
                                              
 msgid "Logistic distribution"             
-msgstr ""
+msgstr "Λογιστικές κατανομές"
          
 msgid "Logistic quantiles..."                      
-msgstr ""
+msgstr "Λογιστικά ποσοστημόρια..."
 
 msgid "Logistic probabilities..."                  
-msgstr ""
+msgstr "Λογιστικές πιθανότητες..."
 
 msgid "Plot logistic distribution..."             
-msgstr ""
+msgstr "Λογιστικές κατανομές Plot..."
  
 msgid "Sample from logistic distribution..."         
-msgstr ""
+msgstr "Δείγμα από λογιστικές κατανομές..."
                                       
 msgid "Lognormal distribution"                     
-msgstr ""
+msgstr "Λογαριθμοκανονική κατανομή"
 
 msgid "Lognormal quantiles..."                    
-msgstr ""
+msgstr "Λογαριθμοκανονικά ποσοστημόρια..."
  
 msgid "Lognormal probabilities..."                 
-msgstr ""
+msgstr "Λογαριθμοκανονικές πιθανότητες..."
 
 msgid "Plot lognormal distribution..."             
-msgstr ""
+msgstr "Λογαριθμοκανονική κατανομή Plot"
 
 msgid "Sample from lognormal distribution..."          
-msgstr ""
+msgstr "Δείγμα από λογαριθμοκανονική κατανομή"
                                     
 msgid "Gamma distribution"                
-msgstr ""
+msgstr "κατανομή Gamma"
          
 msgid "Gamma quantiles..."               
-msgstr ""
+msgstr "ποσοστημόρια Gamma"
           
 msgid "Gamma probabilities..."               
-msgstr ""
+msgstr "πιθανότητες Gamma"
       
 msgid "Plot gamma distribution..."              
-msgstr ""
+msgstr "κατανομή Plot gamma"
    
 msgid "Sample from gamma distribution..."          
 msgstr ""
