@@ -4101,203 +4101,203 @@ msgid "Suppress icon images"
 msgstr "Απόκρυψη εικόνων icon"
 
 msgid "Retain dialog selections"
-msgstr ""
+msgstr "Διατήρηση επιλογών διαλόγου"
 
 msgid "Use rgl package"
-msgstr ""
+msgstr "Χρήση πακέτο rgl"
 
 msgid "Dialog text font size (points)"
-msgstr ""
+msgstr "Μέγεθος γραμματοσειράς κειμένου διαλόγου (μονάδες)"
 
 msgid "Script and output font size (points)"
-msgstr ""
+msgstr "Μέγεθος γραμματοσειράς σεναρίου και αποτελέσματος (μονάδες)"
 
 msgid "Dialog font"
-msgstr ""
+msgstr "Γραμματοσειρά διαλόγου"
 
 msgid "Script and output font"
-msgstr ""
+msgstr "Σενάριο και γραμματοσειρά αποτελέσματος"
 
 msgid "Script text color"
-msgstr ""
+msgstr "Χρώμα του κειμένου σεναρίου"
 
 msgid "Command text color"
-msgstr ""
+msgstr "Χρώμα του κειμένου Command"
 
 msgid "Output text color"
-msgstr ""
+msgstr "Χρώμα του κειμένου Εξόδου"
 
 msgid "Error text color"
-msgstr ""
+msgstr "Χρώμα του κειμένου Σφάλματος"
 
 msgid "Warning text color"
-msgstr ""
+msgstr "Χρώμα του κειμένου Προειδοποίησης"
 
 msgid "Dialog subtitles text color"
-msgstr ""
+msgstr "Χρώμα του κειμένου διαλόγου υπότιτλων"
 
 msgid "Script window width (characters)"
-msgstr ""
+msgstr "Πλάτος του παραθύρου Script (χαρακτήρες)"
 
 msgid "Script window height (lines)"
-msgstr ""
+msgstr "Ύψος του παραθύρου Script (γραμμές)"
 
 msgid "Output window height (lines)"
-msgstr ""
+msgstr "Ύψος του παραθύρου εξόδου (γραμμές)"
 
 msgid "Messages window height (lines)"
-msgstr ""
+msgstr "Ύψος του παραθύρου Μηνύματα (γραμμές)"
 
 msgid "Fonts"
-msgstr ""
+msgstr "Γραμματοσειρές"
 
 msgid "Other Options"
-msgstr ""
+msgstr "Άλλες επιλογές"
 
 msgid "Save Commander Options"
-msgstr ""
+msgstr "Αποθήκευση Επιλογών Commander"
 
 msgid "R Profile saved to"
-msgstr ""
+msgstr "Το R Προφίλ αποθηκεύεται στο"
 
 msgid "The following commands will be saved in the file .Rprofile."
-msgstr ""
+msgstr "Οι ακόλουθες εντολές θα αποθηκευτούν στο αρχείο .Rprofile."
 
 msgid "You may edit this file before saving it."
-msgstr ""
+msgstr "Μπορείτε να επεξεργαστείτε αυτό το αρχείο πριν το αποθηκεύσετε."
 
 msgid "Save Rcmdr options..."
-msgstr ""
+msgstr "Αποθήκευση επιλογών Rcmdr..."
 
     # density estimate dialog
 
 msgid "Nonparametric Density Estimate"
-msgstr ""
+msgstr "Μη παραμετρική Εκτίμηση Πυκνότητας"
 
 msgid "Gaussian"
-msgstr ""
+msgstr "Gaussian"
 
 msgid "Epanechnikov"
-msgstr ""
+msgstr "Epanechnikov"
 
 msgid "Tukey biweight"
-msgstr ""
+msgstr "Tukey biweight"
 
 msgid "Kernel Function"
-msgstr ""
+msgstr "Λειτουργία Πυρήνα"
 
 msgid "Bandwidth"
-msgstr ""
+msgstr "Εύρος ζώνης(Bandwidth)"
 
 msgid "Multiply bandwidth by"
-msgstr ""
+msgstr "Πολλαπλό εύρος ζώνης(Multiply bandwidth by)"
 
 msgid "Density estimate..."
-msgstr ""
+msgstr "Εκτίμηση Πυκνότητας..."
 
 msgid "Bandwidth must be <auto> or a positive number"
-msgstr ""
+msgstr "Το Εύρος Ζώνης (Bandwidth) πρέπει να είναι <Αυτόματο> ή ένας θετικός αριθμός"
 
 # index plot dialog
 
 msgid "Style of plot"
-msgstr ""
+msgstr "Στυλ Γραφήματος"
 
 # export data set dialog
 
 msgid "Write variable names"
-msgstr ""
+msgstr "Γράψτε τα ονόματα των μεταβλητών"
 
 msgid "Write row names"
-msgstr ""
+msgstr "Γράψτε τα ονόματα των γραμμών"
 
 msgid "Quotes around character values"
-msgstr ""
+msgstr "Εισαγωγικά γύρω από την τιμή του χαρακτήρα"
 
 # numerical summaries dialog
 
 msgid "Quantiles:"
-msgstr ""
+msgstr "Ποσοστημόρια:"
 
 # for splines and polynomials in model formulas
 
 msgid "spline requires a numeric variable"
-msgstr ""
+msgstr "Η καμπύλη(spline) απαιτεί μια αριθμητική μεταβλητή"
 
 msgid "cannot select more than one variable"
-msgstr ""
+msgstr "Δεν μπορείτε να επιλέξετε περισσότερες από μία μεταβλητές"
 
 msgid "polynomial requires a numeric variable"
-msgstr ""
+msgstr "Το πολυώνυμο απαιτεί μια αριθμητική μεταβλητή"
 
 msgid "B-spline\n"
-msgstr ""
+msgstr "B-spline\n"
 
 msgid "natural\nspline"
-msgstr ""
+msgstr "natural\nspline"
 
 msgid "orthogonal\npolynomial"
-msgstr ""
+msgstr "Ορθογώνιο\nπολυώνυμο"
 
 msgid "raw\npolynomial"
-msgstr ""
+msgstr "γραμμή\nπολυώνυμο"
 
 msgid "Model Formula"
-msgstr ""
+msgstr "Τύπος Μοντέλου"
 
 msgid "Operators (click to formula):"
-msgstr ""
+msgstr "Operators (κλίκ στον τύπο):"
 
 msgid "Splines/Polynomials:\n(select variable and click)"
-msgstr ""
+msgstr "Splines/Πολυώνυμα:\n(επιλέξτε μεταβλητή και κάντε κλικ)"
 
 msgid "df for splines:"
-msgstr ""
+msgstr "df for splines:"
 
 msgid "deg. for polynomials:"
-msgstr ""
+msgstr "deg. για Πολυώνυμα:"
 
 # messages added to version 2.0-1
 
    # messages related to editing/processing R Markdown and knitr documents
 
 msgid "R Commander Editor"
-msgstr ""
+msgstr "Επεξεργαστής R Commander"
 
 msgid "Edit R Markdown document"
-msgstr ""
+msgstr "Επεξεργασία εγγράφου R Markdown"
 
 msgid "Edit knitr document"
-msgstr ""
+msgstr "Επεξεργασία εγγράφου knitr"
 
 msgid "Remove last Markdown command block"
-msgstr ""
+msgstr "Αφαίρεση τελευταίου Markdown μπλοκ εντολών"
 
 msgid "Remove last knitr command block"
-msgstr ""
+msgstr "Αφαίρεση τελευταίου knitr μπλοκ εντολών"
 
 msgid "Remove last command block"
-msgstr ""
+msgstr "Κατάργηση τελευταίο μπλοκ εντολών"
 
 msgid "Exit editor"
-msgstr ""
+msgstr "Έξοδος επεξεργαστή"
 
 msgid "Editor help"
-msgstr ""
+msgstr "Βοήθεια Επεξεργαστή"
 
 msgid "Delete previously created R Markdown\ngraphics files (recommended)?"
-msgstr ""
+msgstr "Διαγραφή προηγούμενου δημιουργημένου αρχείου R Markdown\nαρχεία γραφικών (συνιστάται);"
 
 msgid "Discard edits?"
-msgstr ""
+msgstr "Απόρριψη αλλαγών;"
 
    # support for back-to-back stem-and-leaf displays
 
 msgid "Plot back-to-back by:"
-msgstr ""
+msgstr "Γράφημα back-to-back από:"
 
 msgid "Plot back-to-back by"
-msgstr ""
+msgstr "Γράφημα back-to-back από:"
 
 # messages added for version 2.1-0
 
@@ -4312,178 +4312,178 @@ msgstr ""
   # for numerical summaries dialog
 
 msgid "Standard Error of Mean"
-msgstr ""
+msgstr "Τυπικό σφάλμα των Μέσων όρων"
 
   # for CFA dialog
 
 msgid "Fit Indices"
-msgstr ""
+msgstr "Δείκτες Fit"
 
   # for read Excel file dialog
 
 msgid "Variable names in first row of spreadsheet"
-msgstr ""
+msgstr "Τα ονόματα των μεταβλητών στη πρώτη γραμμή του υπολογιστικού φύλλου"
 
 msgid "Row names in first column of spreadsheet"
-msgstr ""
+msgstr "Τα ονόματα των γραμμών στην πρώτη στήλη του υπολογιστικού φύλλου"
 
   # for selecting weights in LM and GLM dialogs
 
 msgid "<no variable selected>"
-msgstr ""
+msgstr "<καμία μεταβλητή δεν έχει επιλεγεί>"
 
 msgid "Weights"
-msgstr""
+msgstr"Βάρη"
 
   # new effect-plots dialog
 
 msgid "Model Effect Plots"
-msgstr ""
+msgstr "Γραφήματα Μοντέλου Effect"
 
 msgid "Plot All High-Order Effects?"
-msgstr ""
+msgstr "Γράφημα όλων των High-Order Effects;"
 
 msgid "Predictors (pick one or more)"
-msgstr ""
+msgstr "Προγνωστικοί παράγοντες (επιλέξτε ένα ή παραπάνω)"
 
 msgid "You must select one or more predictors\n or plot all high-order effects."
-msgstr ""
+msgstr "Πρέπει να επιλέξετε έναν ή περισσότερους παράγοντες πρόβλεψης\n ή να γίνει ένα γράφημα με όλα τα high-order effects."
 
 msgid "To plot partial residuals,\n there must be a least one numeric predictor."
-msgstr ""
+msgstr ""Για να σχεδιάσετε μερικά κατάλοιπα,\n πρέπει να υπάρχει τουλάχιστον ένα αριθμητικό προγνωστικό."
 
 msgid "Plot partial residuals"
-msgstr ""
+msgstr "Γράφημα μερικών καταλοίπων"
 
 msgid "Style of Graph"
-msgstr ""
+msgstr "Στυλ γραφήματος"
 
 msgid "Stacked areas"
-msgstr ""
+msgstr "Στοιβαγμένες περιοχές"
 
 msgid "Lines with confidence bands"
-msgstr ""
+msgstr "Γραμμές με τα διαστήματα εμπιστοσύνης"
 
 # new one-sample Wilcoxon test dialog
 
 msgid "Single-Sample Wilcoxon Test"
-msgstr ""
+msgstr "Single-Sample Wilcoxon Test"
 
 msgid "Single-sample Wilcoxon test..."
-msgstr ""
+msgstr "Single-sample Wilcoxon test..."
 
 # new drop unused factor levels dialog
 
 msgid "Drop Unused Factor Levels"
-msgstr ""
+msgstr "Διαγράψτε μη χρησιμοποιηθέντα επίπεδα παραγόντων"
 
 msgid "Factors(s) to drop levels (pick one or more)"
-msgstr ""
+msgstr "Παράγοντες(s) για να ρίξετε τα επίπεδα (επιλέξτε έναν ή παραπάνω)"
 
 msgid "Drop unused factor levels\nPlease confirm."
-msgstr ""
+msgstr "Διαγράψτε μη χρησιμοποιηθέντα επίπεδα παραγόντων\nΠαρακαλώ επιβεβαιώστε."
 
 msgid "Drop unused factor levels..."
-msgstr ""
+msgstr "Διαγράψτε μη χρησιμοποιηθέντα επίπεδα παραγόντων..."
 
 msgid "all factors"
-msgstr ""
+msgstr "όλοι οι παράγοντες"
 
   # messages related to sandwich variance estimator
 
 msgid "Linear Model Summary"
-msgstr ""
+msgstr "Περίληψη Γραμμικού Μοντέλου"
 
 msgid "Sandwich estimator"
-msgstr ""
+msgstr "Εκτιμητής Sandwich"
 
 msgid "Use sandwich estimator of    \ncoefficient standard errors"
-msgstr ""
+msgstr "Χρήση εκτιμητή sandwich του    \nσυντελεστή τυπικού σφάλματος"
 
 msgid "Use sandwich estimator of\ncoefficient covariance matrix   "
-msgstr ""
+msgstr "Χρήση εκτιμητή sandwich του\nσυντελεστή πίνακα συνδιακύμανσης"
 
 msgid "sandwich covariance matrix unavailable with type I tests"
-msgstr ""
+msgstr "Η μήτρα συνδιακύμανσης σάντουιτς δεν είναι διαθέσιμη με τέστ τύπου Ι"
 
   # messages related to ttk theme selection
 
 msgid "non-existent theme"
-msgstr ""
+msgstr "Ανύπαρκτο θέμα"
 
 msgid "theme set to"
-msgstr ""
+msgstr "Το θέμα θα οριστεί σε"
 
   # modified message
 
 msgid "Restart R Commander"
-msgstr ""
+msgstr "Επανεκκίνηση R Commander"
 
   # formula-help button
 
 msgid "Model formula\nhelp"
-msgstr ""
+msgstr "Τύπος μοντέλου\nβοήθεια"
 
 # messages added for version 2.1-1
 
   # messages for the new dataset editor
 
 msgid "Data Editor"
-msgstr ""
+msgstr "Επεξεργασία δεδομένων"
 
 msgid "Delete current row"
-msgstr ""
+msgstr "Διαγραφή τρέχουσας γραμμής"
 
 msgid "Delete current column"
-msgstr ""
+msgstr "Διαγραφή τρέχουσας στήλης"
 
 msgid "Delete cell"
-msgstr ""
+msgstr "Διαγραφή κελιού"
 
 msgid "Cut cell"
-msgstr ""
+msgstr "Αποκοπή κελιού"
 
 msgid "Copy cell"
-msgstr ""
+msgstr "Αντιγραφή κελιού"
 
 msgid "Paste cell"
-msgstr ""
+msgstr "Επικόλληση κελιού"
 
 msgid "Exit and save"
-msgstr ""
+msgstr "Έξοδος και αποθήκευση"
 
 msgid "Add row"
-msgstr ""
+msgstr "Πρόσθεση γραμμής"
 
 msgid "Add column"
-msgstr ""
+msgstr "Πρόσθεση στήλης"
 
 # messages added for version 2.1-3
 
   # to manage app nap under Mac OS X Mavericks
 
 msgid "Manage Mac OS X app nap for R.app..."
-msgstr ""
+msgstr "Διαχείριση Mac OS X app nap για R.app..."
 
 msgid "Mac OS X app nap for R.app"
-msgstr ""
+msgstr "Mac OS X app nap για R.app"
 
 msgid "Set app nap"
-msgstr ""
+msgstr "Ορίστε app nap"
 
 msgid "off (recommended)"
-msgstr ""
+msgstr "Κλειστό (συνιστάται)"
 
 msgid "on"
-msgstr ""
+msgstr "Ανοιχτό"
 
   # set random seed dialog
 
 msgid "Set random number generator seed..."
-msgstr ""
+msgstr "Ορίστε την γεννήτρια τυχαίων αριθμών..."
 
 msgid "Set Random Number Generator Seed"
-msgstr ""
+msgstr "Ορίστε την γεννήτρια τυχαίων αριθμών"
 
 
 # messages added for version 2.2-0
@@ -4491,81 +4491,81 @@ msgstr ""
   # for report generation
 
 msgid "Generate report"
-msgstr ""
+msgstr "Δημιουργία αναφοράς"
 
 msgid "Install Auxiliary Software"
-msgstr ""
+msgstr "Εγκατάσταση Βοηθητικό Λογισμικό(Auxiliary Software)"
 
 msgid "Install auxiliary software..."
-msgstr ""
+msgstr "Εγκατάσταση Βοηθητικό Λογισμικό(Auxiliary Software)..."
 
 msgid "(already installed)"
-msgstr ""
+msgstr "(ήδη εγκατεστημένο)"
 
 msgid "LaTeX"
-msgstr ""
+msgstr "LaTeX"
 
 msgid "Pandoc"
-msgstr ""
+msgstr "Pandoc"
 
 msgid "Software to Install"
-msgstr ""
+msgstr "Λογισμικό για την εγκατάσταση"
 
 msgid "Please read the help for this dialog\nbefore installing auxiliary software."
-msgstr ""
+msgstr "Παρακαλώ διαβάστε την βοήθεια γι'αυτό το διάλογο\nπριν την εγκατάσταση του βοηθητικού λογισμικού."
 
   # additions to scatterplot and scatterplot-matrix dialogs
 
 msgid "Levels for ellipses must be numeric values\n  separated by spaces or commas."
-msgstr ""
+msgstr "Τα επίπεδα για ελλείψεις πρέπει να είναι αριθμητικές τιμές\n διαχωρισμένες με κενά ή κόμματα."
 
 msgid "Plot concentration ellipse(s)"
-msgstr ""
+msgstr "Γράφημα έλλειψη συγκέντρωσης"
 
 msgid "Concentration levels: "
-msgstr ""
+msgstr "Επίπεδα συγκέντρωσης:"
 
   # additions to bargraph dialog
 
 msgid "Style of Group Bars"
-msgstr ""
+msgstr "Στυλ Μπαρ ομάδας"
 
 msgid "Divided (stacked)"
-msgstr ""
+msgstr "Divided (στοιβαγμένα)"
 
 msgid "Side-by-side (parallel)"
-msgstr ""
+msgstr "Side-by-side (παράλληλα)"
 
 msgid "Position of Legend"
-msgstr ""
+msgstr "Θέση του Legend"
 
 msgid "Left"
-msgstr ""
+msgstr "Αριστερά"
 
 msgid "Right"
-msgstr ""
+msgstr "Δεξιά"
 
 msgid "plotting and grouping variables must be different"
-msgstr ""
+msgstr "Σχεδίαση και ομαδοποίηση των μεταβλητών πρέπει να είναι διαφορετικά"
 
   # dot plot dialog
 
 msgid "Dot Plot"
-msgstr ""
+msgstr "Dot Plot"
 
 msgid "Bin variable"
-msgstr ""
+msgstr "Bin variable"
 
 msgid "Dot plot..."
-msgstr ""
+msgstr "Dot plot..."
 
   # for reading Excel files (new dialog)
   
 msgid "Convert character data to factors"
-msgstr ""
+msgstr "Μετατροπή χαρακτήρων δεδομένων σε παράγοντες"
 
 msgid "<empty cell>"
-msgstr ""
+msgstr "<κενό κελί>"
 
 msgid "{\"All Files\" {\"*\"}} {\"MS Excel file\" {\".xlsx\" \".XLSX\" \".xls\" \".XLS\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"Αρχείο MS Excel\" {\".xlsx\" \".XLSX\" \".xls\" \".XLS\"}}"
