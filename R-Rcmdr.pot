@@ -2011,292 +2011,292 @@ msgid "from STATA data set..."
 msgstr "από το σύνολο δεδομένων STATA..."
 
 msgid "Import data"
-msgstr ""
+msgstr "Εισαγωγή δεδομένων"
 
 msgid "List data sets in packages"
-msgstr ""
+msgstr "Λίστα σύνολων δεδομένων σε πακέτα"
 
 msgid "Read data set from an attached package..."
-msgstr ""
+msgstr "Διαβάστε τα δεδομένα από ένα συνδεδεμένο πακέτο..."
 
 msgid "Data in packages"
-msgstr ""
+msgstr "Τα δεδομένα σε πακέτα"
 
 msgid "Select active data set..."
-msgstr ""
+msgstr "Επιλέξτε ενεργό σύνολο δεδομένων..."
 
 msgid "Help on active data set (if available)"
-msgstr ""
+msgstr "Βοήθεια για το ενεργό σύνολο δεδομένων (εάν είναι διαθέσιμο)"
 
 msgid "Variables in active data set"
-msgstr ""
+msgstr "Οι Μεταβλητές στο ενεργό σύνολο δεδομένων"
 
 msgid "Set case names..."
-msgstr ""
+msgstr "Ορίστε τα ονόματα υπόθεσης..."
 
 msgid "Subset active data set..."
-msgstr ""
+msgstr "Υποσύνολο ενεργού συνόλου δεδομένων..."
 
 msgid "Remove cases with missing data..."
-msgstr ""
+msgstr "Αφαιρέστε τις περιπτώσεις με τα δεδομένα που λείπουν..."
 
 msgid "Export active data set..."
-msgstr ""
+msgstr "Εξαγωγή ενεργού συνόλου δεδομένων..."
 
 msgid "Active data set"
-msgstr ""
+msgstr "Ενεργό σύνολο δεδομένων"
 
 msgid "Recode variable..."
-msgstr ""
+msgstr "Επανακωδικοποίηση μεταβλητής..."
 
 msgid "Compute new variable..."
-msgstr ""
+msgstr "Υπολογίστε μία μεταβλητή..."
 
 msgid "Standardize variables..."
-msgstr ""
+msgstr "Τυποποιήστε μεταβλητές..."
 
 msgid "Convert numeric variable to factor..."
-msgstr ""
+msgstr "Μετατροπή αριθμητικής μεταβλητής στον παράγοντα..."
 
 msgid "Bin numeric variable..."
-msgstr ""
+msgstr "Αποθήκευση αριθμητικής μεταβλητής..."
 
 msgid "Reorder factor levels..."
-msgstr ""
+msgstr "Αναδιάταξη επιπέδων παράγοντα..."
 
 msgid "Define contrasts for a factor..."
-msgstr ""
+msgstr "Ορίστε αντιθέσεις για έναν παράγοντα..."
 
 msgid "Rename variables..."
-msgstr ""
+msgstr "Μετονομασία μεταβλητών..."
 
 msgid "Delete variables from data set ..."
-msgstr ""
+msgstr "Διαγραφή μεταβλητών από το σύνολο δεδομένων..."
 
 msgid "Manage variables in active data set"
-msgstr ""
+msgstr "Διαχειριστείτε μεταβλητές στο ενεργό σύνολο δεδομένων"
 
 msgid "Data"
-msgstr ""
+msgstr "δεδομένα"
 
 msgid "Numerical summaries..."
-msgstr ""
+msgstr "αριθμητικές περιλήψεις..."
 
 msgid "Frequency distribution..."
-msgstr ""
+msgstr "Κατανομή συχνότητας..."
 
 msgid "Table of statistics..."
-msgstr ""
+msgstr "Πίνακας των στατιστικών..."
 
 msgid "Correlation matrix..."
-msgstr ""
+msgstr "Συσχέτιση matrix..."
 
 msgid "Two-way table..."
-msgstr ""
+msgstr "Two-way table..."
 
 msgid "Multi-way table..."
-msgstr ""
+msgstr "Multi-way table..."
 
 msgid "Enter and analyze two-way table..."
-msgstr ""
+msgstr "Εισάγετε και να αναλύστε  two-way table..."
 
 msgid "Single-sample t-test..."
-msgstr ""
+msgstr "Single-sample t-test..."
 
 msgid "Independent samples t-test..."
-msgstr ""
+msgstr "Ανεξάρτητο samples t-test..."
 
 msgid "Paired t-test..."
-msgstr ""
+msgstr "Paired t-test..."
 
 msgid "One-way ANOVA..."
-msgstr ""
+msgstr "One-way ANOVA..."
 
 msgid "Multi-way ANOVA..."
-msgstr ""
+msgstr "Multi-way ANOVA..."
 
 msgid "Single-sample proportion test..."
-msgstr ""
+msgstr "Τεστ αναλογίας Single-sample..."
 
 msgid "Two-sample proportions test..."
-msgstr ""
+msgstr "Τεστ αναλογίας Two-sample..."
 
 msgid "Two-variances F-test..."
-msgstr ""
+msgstr "Δύο διακυμάνσεις F-test..."
 
 msgid "Bartlett's test..."
-msgstr ""
+msgstr "Τεστ Bartlett's..."
 
 msgid "Levene's test..."
-msgstr ""
+msgstr "Τεστ Levene's..."
 
 msgid "Two-sample Wilcoxon test..."
-msgstr ""
+msgstr "Τεστ Two-sample Wilcoxon..."
 
 msgid "Paired-samples Wilcoxon test..."
-msgstr ""
+msgstr "Τεστ Paired-samples Wilcoxon..."
 
 msgid "Kruskal-Wallis test..."
-msgstr ""
+msgstr "Τεστ Kruskal-Wallis..."
 
 msgid "Scale reliability..."
-msgstr ""
+msgstr "Αξιοπιστία κλίμακας..."
 
 msgid "Principal-components analysis..."
-msgstr ""
+msgstr "Ανάλυση κυρίων συνιστωσών..."
 
 msgid "Factor analysis..."
-msgstr ""
+msgstr "Παραγοντική ανάλυση..."
 
 msgid "k-means cluster analysis..."
-msgstr ""
+msgstr "Συστάδα ανάλυσης k-means..."
 
 msgid "Hierarchical cluster analysis..."
-msgstr ""
+msgstr "Ιεραρχική ανάλυση διασποράς..."
 
 msgid "Summarize hierarchical clustering..."
-msgstr ""
+msgstr "Συνοψίστε ιεραρχική ομαδοποίηση..."
 
 msgid "Add hierarchical clustering to data set..."
-msgstr ""
+msgstr "Προσθήκη ιεραρχικής ομαδοποίησης σε σύνολο δεδομένων..."
 
 msgid "Cluster analysis"
-msgstr ""
+msgstr "Συστάδα ανάλυσης"
 
 msgid "Linear regression..."
-msgstr ""
+msgstr "Γραμμική παλινδρόμηση..."
 
 msgid "Linear model..."
-msgstr ""
+msgstr "Γραμμικό μοντέλο..."
 
 msgid "Generalized linear model..."
-msgstr ""
+msgstr "Γενικευμένο γραμμικό μοντέλο..."
 
 msgid "Multinomial logit model..."
-msgstr ""
+msgstr "Πολυωνυμικό μοντέλο logit"
 
 msgid "Proportional-odds logit model..."
-msgstr ""
+msgstr "Αναλογικές πιθανότητες μοντέλου logit..."
 
 msgid "Statistics"
-msgstr ""
+msgstr "Στατιστικά"
 
 msgid "Summaries"
-msgstr ""
+msgstr "Περιλήψεις"
 
 msgid "Contingency tables"
-msgstr ""
+msgstr "Πίνακες έκτακτης ανάγκης"
 
 msgid "Means"
-msgstr ""
+msgstr "Μέσα"
 
 msgid "Proportions"
-msgstr ""
+msgstr "Αναλογίες"
 
 msgid "Variances"
-msgstr ""
+msgstr "Αποκλίσεις"
 
 msgid "Nonparametric tests"
-msgstr ""
+msgstr "Μη παραμετρικές δοκιμές"
 
 msgid "Dimensional analysis"
-msgstr ""
+msgstr "Διαστατική ανάλυση"
 
 msgid "Fit models"
-msgstr ""
+msgstr "Fit models"
 
 msgid "Index plot..."
-msgstr ""
+msgstr "Index plot..."
 
 msgid "Histogram..."
-msgstr ""
+msgstr "Ιστόγραμμα..."
 
 msgid "Stem-and-leaf display..."
-msgstr ""
+msgstr "Stem-and-leaf display..."
 
 msgid "Boxplot..."
-msgstr ""
+msgstr "Boxplot..."
 
 msgid "Quantile-comparison plot..."
-msgstr ""
+msgstr "Quantile-comparison plot..."
 
 msgid "Scatterplot..."
-msgstr ""
+msgstr "Scatterplot..."
 
 msgid "Scatterplot matrix..."
-msgstr ""
+msgstr "Scatterplot matrix..."
 
 msgid "3D scatterplot..."
-msgstr ""
+msgstr "3D scatterplot..."
 
 msgid "Line graph..."
-msgstr ""
+msgstr "Γράφημα γραμμής..."
 
 msgid "Plot of means..."
-msgstr ""
+msgstr "Plot of means..."
 
 msgid "Bar graph..."
-msgstr ""
+msgstr "Ραβδόγραμμα..."
 
 msgid "Pie chart..."
-msgstr ""
+msgstr "Διάγραμμα πίτας"
 
 msgid "as bitmap..."
-msgstr ""
+msgstr "ως bitmap..."
 
 msgid "as PDF/Postscript/EPS..."
-msgstr ""
+msgstr "ως PDF/Postscript/EPS..."
 
 msgid "3D RGL graph..."
-msgstr ""
+msgstr "Γράφημα 3D RGL..."
 
 msgid "Save graph to file"
-msgstr ""
+msgstr "Αποθήκευση γραφήματος σε αρχείο"
 
 msgid "Graphs"
-msgstr ""
+msgstr "Γραφήματα"
 
 msgid "Select active model..."
-msgstr ""
+msgstr "Επιλέξτε ενεργό μοντέλο..."
 
 msgid "Summarize model"
-msgstr ""
+msgstr "Συνοψίστε μοντέλο"
 
 msgid "Add observation statistics to data..."
-msgstr ""
+msgstr "Προσθήκη στατιστικών παρατηρήσεων στα δεδομένα..."
 
 msgid "Confidence intervals..."
-msgstr ""
+msgstr "Διαστήματα εμπιστοσύνης..."
 
 msgid "Hypothesis tests"
-msgstr ""
+msgstr "Έλεγχοι υποθέσεων"
 
 msgid "ANOVA table"
-msgstr ""
+msgstr "ANOVA table"
 
 msgid "Compare two models..."
-msgstr ""
+msgstr "Συγκρίνετε τα δύο μοντέλα..."
 
 msgid "Linear hypothesis..."
-msgstr ""
+msgstr "Γραμμική υπόθεση..."
 
 msgid "Numerical diagnostics"
-msgstr ""
+msgstr "Αριθμητικά διαγνωστικά"
 
 msgid "Variance-inflation factors"
-msgstr ""
+msgstr "Παράγοντες διακύμανσης του πληθωρισμού"
 
 msgid "Breusch-Pagan test for heteroscedasticity..."
-msgstr ""
+msgstr "Δοκιμή για ετεροσκεδαστικότητα Breusch-Pagan..."
 
 msgid "Durbin-Watson test for autocorrelation..."
-msgstr ""
+msgstr "δοκιμή για αυτοσυσχέτισης Durbin-Watson..."
 
 msgid "RESET test for nonlinearity..."
-msgstr ""
+msgstr "ΕΠΑΝΑΦΟΡΑ δοκιμής για μη γραμμικότητα..."
 
 msgid "Bonferroni outlier test"
-msgstr ""
+msgstr "Τεστ Bonferroni outlier"
 
 msgid "Basic diagnostic plots"
 msgstr ""
