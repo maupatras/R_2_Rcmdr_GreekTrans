@@ -2900,103 +2900,103 @@ msgid "Lognormal probabilities..."
 msgstr "Λογαριθμοκανονικές πιθανότητες..."
 
 msgid "Plot lognormal distribution..."             
-msgstr "Λογαριθμοκανονική κατανομή Plot"
+msgstr "Λογαριθμοκανονική κατανομή Plot..."
 
 msgid "Sample from lognormal distribution..."          
-msgstr "Δείγμα από λογαριθμοκανονική κατανομή"
+msgstr "Δείγμα από λογαριθμοκανονική κατανομή..."
                                     
 msgid "Gamma distribution"                
 msgstr "κατανομή Gamma"
          
 msgid "Gamma quantiles..."               
-msgstr "ποσοστημόρια Gamma"
+msgstr "ποσοστημόρια Gamma..."
           
 msgid "Gamma probabilities..."               
-msgstr "πιθανότητες Gamma"
+msgstr "πιθανότητες Gamma..."
       
 msgid "Plot gamma distribution..."              
-msgstr "κατανομή Plot gamma"
+msgstr "κατανομή Plot gamma..."
    
 msgid "Sample from gamma distribution..."          
-msgstr ""
+msgstr "Δείγμα από κατανομή gamma..."
                                         
 msgid "Weibull distribution"                     
-msgstr ""
+msgstr "κατανομή Weibull"
   
 msgid "Weibull quantiles..."                       
-msgstr ""
+msgstr "ποσοστημόρια Weibull..."
 
 msgid "Weibull probabilities..."                   
-msgstr ""
+msgstr "πιθανότητες Weibull..."
 
 msgid "Plot Weibull distribution..."               
-msgstr ""
+msgstr "κατανομή Plot Weibull..."
 
 msgid "Sample from Weibull distribution..."                
-msgstr ""
+msgstr "Δείγμα από κατανομή Weibull..."
                                
 msgid "Gumbel distribution"                        
-msgstr ""
+msgstr "κατανομή Gumbel"
 
 msgid "Gumbel quantiles..."                
-msgstr ""
+msgstr "ποσοστημόρια Gumbel..."
         
 msgid "Gumbel probabilities..."      
-msgstr ""
+msgstr "πιθανότητες Gumbel..."
               
 msgid "Plot Gumbel distribution..."      
-msgstr ""
+msgstr "κατανομή Plot Gumbel..."
           
 msgid "Sample from Gumbel distribution..."  
-msgstr ""
+msgstr "Δείγμα από κατανομή Gumbel..."
                              
 msgid "Sample from binomial distribution..." 
-msgstr ""
+msgstr "Δείγμα από διωνυμική κατανομή..."
                                                        
 msgid "Poisson quantiles..."         
-msgstr ""
+msgstr "ποσοστημόρια Poisson..."
                  
 msgid "Poisson tail probabilities..."  
-msgstr ""
+msgstr "πιθανότητες ουράς Poisson..."
                
 msgid "Sample from Poisson distribution..."   
-msgstr ""
+msgstr "Δείγμα από κατανομή Poisson..."
                                                       
 msgid "Geometric distribution"   
-msgstr ""
+msgstr "Γεωμετρική κατανομή"
                      
 msgid "Geometric quantiles..."  
-msgstr ""
+msgstr "Γεωμετρικά ποσοστημόρια..."
                       
 msgid "Geometric tail probabilities..."   
-msgstr ""
+msgstr "Γεωμετρικές ουρές πιθανοτήτων..."
             
 msgid "Geometric probabilities..."  
-msgstr ""
+msgstr "Γεωμετρικές πιθανότητες..."
                   
 msgid "Plot geometric distribution..."  
-msgstr ""
+msgstr "γεωμετρική κατανομή Plot..."
               
 msgid "Sample from geometric distribution..."   
-msgstr ""
+msgstr "Δείγμα από γεωμετρική κατανομή..."
                                                   
 msgid "Hypergeometric distribution" 
-msgstr ""
+msgstr "Εκθετική κατανομή"
                   
 msgid "Hypergeometric quantiles..."  
-msgstr ""
+msgstr "υπεργεωμετρικά ποσοστημόρια..."
                  
 msgid "Hypergeometric tail probabilities..."   
-msgstr ""
+msgstr "υπεργεωμετρικές ουρές πιθανοτήτων..."
        
 msgid "Hypergeometric probabilities..."     
-msgstr ""
+msgstr "Υπεργεωμετρικές πιθανότητες..."
           
 msgid "Plot hypergeometric distribution..."   
-msgstr ""
+msgstr "υπεργεωμετρική κατανομή Plot..."
         
 msgid "Sample from hypergeometric distribution..."   
-msgstr ""
+msgstr "Δείγμα από  υπεργεωμετρική κατανομή..."
                                             
 msgid "Negative binomial distribution"      
 msgstr "Αρνητική διωνυμική κατανομή"
