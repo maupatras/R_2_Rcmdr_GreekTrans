@@ -2299,144 +2299,144 @@ msgid "Bonferroni outlier test"
 msgstr "Τεστ Bonferroni outlier"
 
 msgid "Basic diagnostic plots"
-msgstr ""
+msgstr "Bασικά διαγνωστικά plots"
 
 msgid "Residual quantile-comparison plot..."
-msgstr ""
+msgstr "Υπολειμματική σύγκρισης plot..."
 
 msgid "Component+residual plots"
-msgstr ""
+msgstr "Συστατικά+ υπολειμματικά plots"
 
 msgid "Added-variable plots"
-msgstr ""
+msgstr "Προστέθηκε μεταβλητή plots"
 
 msgid "Influence plot"
-msgstr ""
+msgstr "Επιρροή plot"
 
 msgid "Effect plots"
-msgstr ""
+msgstr "Αποτέλεσμα plots"
 
 msgid "Models"
-msgstr ""
+msgstr "Μοντέλα"
 
 msgid "Normal distribution"
-msgstr ""
+msgstr "Κανονική κατανομή"
 
 msgid "Normal quantiles..."
-msgstr ""
+msgstr "κανονικά ποσοστημόρια..."
 
 msgid "Normal probabilities..."
-msgstr ""
+msgstr "Κανονικές πιθανότητες..."
 
 msgid "Plot normal distribution..."
-msgstr ""
+msgstr "Κανονική κατανομή Plot..."
 
 msgid "t distribution"
-msgstr ""
+msgstr "Κατανομή t"
 
 msgid "t quantiles..."
-msgstr ""
+msgstr "Ποσοστημόρια t..."
 
 msgid "t probabilities..."
-msgstr ""
+msgstr "Πιθανότητες t..."
 
 msgid "Plot t distribution..."
-msgstr ""
+msgstr "Κατανομή Plot t..."
 
 msgid "Chi-squared distribution"
-msgstr ""
+msgstr "χ^2 κατανομή"
 
 msgid "Chi-squared quantiles..."
-msgstr ""
+msgstr "χ^2 ποσοστημόρια..."
 
 msgid "Chi-squared probabilities..."
-msgstr ""
+msgstr "χ^2 Πιθανότητες..."
 
 msgid "Plot chi-squared distribution..."
-msgstr ""
+msgstr "χ^2 κατανομή Plot..."
 
 msgid "F distribution"
-msgstr ""
+msgstr "κατανομή F"
 
 msgid "F quantiles..."
-msgstr ""
+msgstr "Ποσοστημόρια F..."
 
 msgid "F probabilities..."
-msgstr ""
+msgstr "Πιθανότητες F..."
 
 msgid "Plot F distribution..."
-msgstr ""
+msgstr "Πιθανότητες Plot F"
 
 msgid "Binomial distribution"
-msgstr ""
+msgstr "Διωνυμική κατανομή"
 
 msgid "Binomial quantiles..."
-msgstr ""
+msgstr "Διωνυμικά ποσοστημόρα..."
 
 msgid "Binomial tail probabilities..."
-msgstr ""
+msgstr "Διωνυμικές πιθανότητες ουράς..."
 
 msgid "Binomial probabilities..."
-msgstr ""
+msgstr "Διωνυμικές πιθανότες..."
 
 msgid "Plot binomial distribution..."
-msgstr ""
+msgstr "Διωνυμικές πιθανότες Plot..."
 
 msgid "Poisson distribution"
-msgstr ""
+msgstr "Διωνυμική Poisson"
 
 msgid "Poisson probabilities..."
-msgstr ""
+msgstr "Πιθανότες Poisson..."
 
 msgid "Plot Poisson distribution..."
-msgstr ""
+msgstr "Διωνυμική Poisson Plot..."
 
 msgid "Distributions"
-msgstr ""
+msgstr "Διωνυμικές"
 
 msgid "Load package(s)..."
-msgstr ""
+msgstr "Φόρτωση πακέτου(-των)..."
 
 msgid "Options..."
-msgstr ""
+msgstr "Επιλογές..."
 
 msgid "Tools"
-msgstr ""
+msgstr "Εργαλεία"
 
 msgid "Commander help"
-msgstr ""
+msgstr "Βοήθεια Commander"
 
 msgid "Introduction to the R Commander"
-msgstr ""
+msgstr "Εισαγωγή στην  R Commander"
 
 msgid "About Rcmdr"
-msgstr ""
+msgstr "Σχετικά με την Rcmdr"
 
 msgid "df ="
-msgstr ""
+msgstr "df ="
 
 ## messages added to Rcmdr version 1.1-1
 
 msgid "There is no current RGL graphics device."
-msgstr ""
+msgstr "Δεν υπάρχει καμία τρέχουσα συσκευή γραφικών RGL."
 
 msgid "3D graph"
-msgstr ""
+msgstr "Γράφημα Δεν υπάρχει καμία τρέχουσα συσκευή γραφικών RGL"
 
 ## messages added to Rcmdr version 1.1-6
 
 msgid " contains non-standard variable names:\n"
-msgstr ""
+msgstr "περιέχει μη τυποποιημένα ονόματα των μεταβλητών:\n"
 
 msgid "\nThese have been changed to:\n"
-msgstr ""
+msgstr "\nΑυτά έχουν αλλάξει:\n"
 
 ## messages added to Rcmdr version 1.2-0
 
     # importRODBCtable dialog
 
 msgid "This function requires the RODBC package.\n"
-msgstr ""
+msgstr "Αυτή η συνάρτηση απαιτεί το πακέτο RODBC.\n"
 
 msgid "Import from Excel, Access or dBase data set"
 msgstr ""
