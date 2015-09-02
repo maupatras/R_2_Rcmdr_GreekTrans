@@ -3795,207 +3795,207 @@ msgid "There are too many factors."
 msgstr ""
 
 msgid "Identifying Constraints"
-msgstr ""
+msgstr "Προσδιορίζοντας περιορισμούς"
 
 msgid "Factor variances set to 1"
-msgstr ""
+msgstr "Ο παράγοντας διακύμανσης ορίζεται σε 1"
 
 msgid "First loading on each factor set to 1"
-msgstr ""
+msgstr "Πρώτη φόρτιση σε κάθε συντελεστή ορίζεται σε 1"
 
 msgid "Confirmatory factor analysis..."
-msgstr ""
+msgstr "επιβεβαίωσης παραγοντικής ανάλυσης..."
 
 # messages added to version 1.8-1
 
 	# the following messages were omitted from version 1.8-0
 
 msgid "Robust standard errors"
-msgstr ""
+msgstr "Ανθεκτικά τυπικά σφάλματα"
 
 msgid "No factors defined."
-msgstr ""
+msgstr "Δεν υπάρχουν παράγοντες που ορίζονται."
 
 # message added to version 1.8-2
 
 msgid "Default-font size (points)"
-msgstr ""
+msgstr "Προκαθορισμένο μέγεθος γραμματοσειράς (μονάδες)"
 
 # message added to version 1.8-4
 
 msgid "data set edit error."
-msgstr ""
+msgstr "Λάθος επεξεργασία δεδομένων ."
 
 # messages added to version 1.9-0
 
 msgid "Identify Outliers"
-msgstr ""
+msgstr "Προσδιορίστε τις ακραίες τιμές"
 
 msgid "Automatically"
-msgstr ""
+msgstr "Αυτόματα"
 
 msgid "With mouse"
-msgstr ""
+msgstr "Με το ποντίκι"
 
 msgid "Width"
-msgstr ""
+msgstr "Πλάτος"
 
 msgid "Height"
-msgstr ""
+msgstr "Ύψος"
 
 msgid "[disabled]"
-msgstr ""
+msgstr "[απενεργοποιημένο]"
 
 msgid "inches"
-msgstr ""
+msgstr "ίντσες"
 
 msgid "inch"
-msgstr ""
+msgstr "ίντσα"
 
 msgid "cm"
-msgstr ""
+msgstr "cm"
 
 msgid "pixels"
-msgstr ""
+msgstr "pixels"
 
 msgid "Units"
-msgstr ""
+msgstr "Μονάδες"
 
 msgid "Fixed aspect ratio (height:width)"
-msgstr ""
+msgstr "Σταθερή αναλογία διαστάσεων (ύψος:πλάτος)"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Ανάλυση"
 
 msgid "from SAS xport file..."
-msgstr ""
+msgstr "από το αρχείο SAS xport..."
 
 msgid "Data Set Name"
-msgstr ""
+msgstr "Όνομα συνόλου δεδομένων"
 
 msgid "Select Dataset"
-msgstr ""
+msgstr "Επιλέξτε δεδομένα"
 
 msgid "Datasets in file (pick one)"
-msgstr ""
+msgstr "Τα δεδομένα στο αρχείο (επιλέξτε ένα)"
 
 msgid "{\"All Files\" {\"*\"}} {\"SAS xport files\" {\".xpt\" \".XPT\" \".xport\" \".XPORT\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"SAS xport files\" {\".xpt\" \".XPT\" \".xport\" \".XPORT\"}}"
 
 msgid "Convert variable names\nto lower case"
-msgstr ""
+msgstr "Μετατροπή τα ονόματα των μεταβλητών\nγια πεζά"
 
 msgid "from Excel file..."
-msgstr ""
+msgstr "από το αρχείο Excel..."
 
 msgid "Import Excel Data Set"
-msgstr ""
+msgstr "Εισαγωγή δεδομένων Excel"
 
 msgid "{\"All Files\" {\"*\"}} {\"MS Excel 2007 file\" {\".xlsx\" \".XLSX\"}} {\"MS Excel file\" {\".xls\" \".XLS\"}}"
-msgstr ""
+msgstr "{\"Όλα τα αρχεία\" {\"*\"}} {\"MS Excel 2007 file\" {\".xlsx\" \".XLSX\"}} {\"MS Excel file\" {\".xls\" \".XLS\"}}"
 
 msgid "Interquartile Range"
-msgstr ""
+msgstr "Ενδοτεταρτημοριακό Εύρος"
 
 msgid "Interquartile range"
-msgstr ""
+msgstr "Ενδοτεταρτημοριακό εύρος"
 
 msgid "Lines"
-msgstr ""
+msgstr "Γραμμές"
 
 msgid "Choose at least one of points or lines."
-msgstr ""
+msgstr "Επιλέξτε τουλάχιστον ένα από τα σημεία ή γραμμές."
 
 msgid "Plot Type (one or both)"
-msgstr ""
+msgstr "Τύπος γραφήματος (ένα ή και τα δύο)"
 
 
 # messages added to version 1.9-1 (missing from 1.9-0)
 
 msgid "Plot legend"
-msgstr ""
+msgstr "Γράφημα legend"
 
    # the following were missing from Xyplot()
 
 msgid "Conditions '|' (pick zero or more)"
-msgstr ""
+msgstr "Προϋποθέσεις '|' (πάρε μηδέν ή παραπάνω)"
 
 msgid "Groups 'groups=' (pick zero or more)"
-msgstr ""
+msgstr "Ομάδες 'ομάδες=' (pick zero or more)"
 
 msgid "Different panels for different y ~ x combinations"
-msgstr ""
+msgstr "Διαφορετικούς πίνακες για διαφορετικούς συνδυασμούς y ~ x"
 
 msgid "Layout"
-msgstr ""
+msgstr "Διάταξη"
 
 msgid "number of columns:"
-msgstr ""
+msgstr "αριθμός των στηλών:"
 
 msgid "number of rows:"
-msgstr ""
+msgstr "αριθμό των γραμμών:"
 
 
 # messages added to version 2.0-0
 
 msgid "Plot Options"
-msgstr ""
+msgstr "Επιλογές γραφημάτων"
 
 msgid "Plot Labels"
-msgstr ""
+msgstr "Ετικέτες γραφημάτων"
 
 msgid "Graph title"
-msgstr ""
+msgstr "Τίτλος του γραφήματος"
 
 msgid "Plot Labels and Points"
-msgstr ""
+msgstr "Ετικέτες γραφημάτων και Σημεία"
 
 msgid "Apply"
-msgstr ""
+msgstr "Εφαρμογή"
 
 msgid "Pairwise p-values"
-msgstr ""
+msgstr "Pairwise p-values"
 
 msgid "Observations to Use"
-msgstr ""
+msgstr "Παρατηρήσεις για χρήση"
 
 msgid "Complete observations"
-msgstr ""
+msgstr "Συμπληρώστε παρατηρήσεις"
 
 msgid "Pairwise-complete observations"
-msgstr ""
+msgstr "Pairwise-Συμπληρώστε παρατηρήσεις"
 
 msgid "R Script"
-msgstr ""
+msgstr "Σενάριο R"
 
 msgid "Output"
-msgstr ""
+msgstr "Εξαγωγή"
 
 msgid "R Commander website" 
-msgstr ""
+msgstr "Ιστότοπος R Commander"
 
 msgid "R website"
-msgstr ""
+msgstr "Ιστότοπος R"
 
 msgid "Using R Markdown"
-msgstr ""
+msgstr "Χρήση R Markdown"
 
 msgid "Table"
-msgstr ""
+msgstr "Πίνακας"
 
     # point identification in graphs (additional messages)
 
 msgid "Interactively with mouse"
-msgstr ""
+msgstr "Διαδραστικά με το ποντίκι"
 
 msgid "Do not identify"
-msgstr ""
+msgstr "Δεν το εντοπίζει"
 
 msgid "number of points to identify must be an integer"
-msgstr ""
+msgstr "Ο αριθμός των σημείων για τον προσδιορισμό πρέπει να είναι ακέραιος"
 
 msgid "Number of points to identify"
-msgstr ""
+msgstr "Ο αριθμός των σημείων για τον εντοπισμό"
 
 msgid "Number of points to identify  \nin each panel and group "
 msgstr "Ο αριθμός των σημείων για τον εντοπισμό \nσε κάθε πάνελ και ομάδα"
