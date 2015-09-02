@@ -2439,105 +2439,105 @@ msgid "This function requires the RODBC package.\n"
 msgstr "Αυτή η συνάρτηση απαιτεί το πακέτο RODBC.\n"
 
 msgid "Import from Excel, Access or dBase data set"
-msgstr ""
+msgstr "Εισαγωγή από το σύνολο των δεδομένων του Excel, Access ή dBase"
 
 msgid "{\"MS Excel file\" {*.xls \".XLS\"}} {\"MS Access database\" {*.mdb \".MDB\"}} {\"dBase-like file\" {*.dbf \".DBF\"}} {\"All Files\" {\"*\"}}"
-msgstr ""
+msgstr "{\"MS Excel file\" {*.xls \".XLS\"}} {\"MS Access database\" {*.mdb \".MDB\"}} {\"dBase-like file\" {*.dbf \".DBF\"}} {\"All Files\" {\"*\"}}"
 
 msgid "Select one table"
-msgstr ""
+msgst "Επιλέξτε ένα πίνακα"
 
 msgid "No table selected"
-msgstr ""
+msgstr "Κανένας πίνακας δεν έχει επιλεχθεί"
 
 msgid "from Excel, Access or dBase data set..."
-msgstr ""
+msgstr "από Excel, Access ή dBase σύνολο των δεδομένων..."
 
     # probability distributions
 
 msgid "Standard deviation must be positive."
-msgstr ""
+msgstr "Η Τυπική απόκλιση πρέπει να είναι θετική"
 
 msgid "Degrees of freedom must be positive."
-msgstr ""
+msgstr "Οι Βαθμοί ελευθερίας πρέπει να είναι θετικοί"
 
 msgid "Numerator degrees of freedom must be positive."
-msgstr ""
+msgstr "Ο βαθμός ελευθερίας του Αριθμητή πρέπει να είναι θετικός"
 
 msgid "Denominator degrees of freedom must be positive."
-msgstr ""
+msgstr "Ο βαθμός ελευθερίας του παρονομαστή πρέπει να είναι θετική"
 
 msgid "Exponential Distribution"
-msgstr ""
+msgstr "Εκθετική κατανομή"
 
 msgid "Rate must be positive."
-msgstr ""
+msgstr "Η Βαθμολόγηση πρέπει να είναι θετική"
 
 msgid "Rate"
-msgstr ""
+msgstr "Βαθμολόγηση"
 
 msgid "Uniform Distribution"
-msgstr ""
+msgstr "Ομοιόμορφη κατανομή"
 
 msgid "Lower limit must be less than upper limit."
-msgstr ""
+msgstr "Το Κατώτερο όριο πρέπει να είναι μικρότερο από το ανώτατο όριο"
 
 msgid "Minimum"
-msgstr ""
+msgstr "Ελάχιστο"
 
 msgid "Maximum"
-msgstr ""
+msgstr "Μέγιστο"
 
 msgid "Beta Distribution"
-msgstr ""
+msgstr "Beta Διανομή"
 
 msgid "Shapes not specified."
-msgstr ""
+msgstr "Τα Σχήματα που δεν κατονομάζονται"
 
 msgid "Shapes must be positive."
-msgstr ""
+msgstr "Τα Σχήματα πρέπει να είναι θετική"
 
 msgid "Shape"
-msgstr ""
+msgstr "Σχήμα"
 
 msgid "Cauchy Distribution"
-msgstr ""
+msgstr "Cauchy Διανομή"
 
 msgid "Scale must be positive."
-msgstr ""
+msgstr "Η Κλίμακα πρέπει να είναι θετική"
 
 msgid "Location"
-msgstr ""
+msgstr "Τοποθεσία"
 
 msgid "Scale"
-msgstr ""
+msgstr "Κλίμακα"
 
 msgid "Logistic Distribution"
-msgstr ""
+msgstr "Logistic Διανομή"
 
 msgid "Lognormal Distribution"
-msgstr ""
+msgstr "Λογαριθμοκανονική Διανομή"
 
 msgid "Mean (log scale)"
-msgstr ""
+msgstr "Μέσος (λογαριθμική κλίμακα)"
 
 msgid "Standard deviation (log scale)"
-msgstr ""
+msgstr "Τυπική απόκλιση (λογαριθμική κλίμακα)"
 
 msgid "Gamma Distribution"
-msgstr ""
+msgstr "Κατανομή γάμμα Gamma"
 
 msgid "Shape not specified."
-msgstr ""
+msgstr "Το Σχήμα που δεν κατονομάζεται."
 
 msgid "Shape must be positive."
-msgstr ""
+msgstr "Το Σχήμα πρέπει να είναι θετικό"
 
 msgid "Weibull Distribution"
-msgstr ""
+msgstr "Κατανομή Weibull"
 
 msgid "Exponential Quantiles"
-msgstr ""
+msgstr "Εκθετική ποσοστημορίων"
 
 msgid "Exponential Probabilities"
 msgstr ""
