@@ -2238,10 +2238,10 @@ msgid "Manage variables in active data set"
 msgstr "Διαχειριστείτε μεταβλητές στο ενεργό σύνολο δεδομένων"
 
 msgid "Data"
-msgstr "δεδομένα"
+msgstr "Δεδομένα"
 
 msgid "Numerical summaries..."
-msgstr "αριθμητικές περιλήψεις..."
+msgstr "Αριθμητικές περιλήψεις..."
 
 msgid "Frequency distribution..."
 msgstr "Κατανομή συχνότητας..."
@@ -2268,7 +2268,7 @@ msgid "Independent samples t-test..."
 msgstr "Ανεξάρτητο samples t-test..."
 
 msgid "Paired t-test..."
-msgstr "Paired t-test..."
+msgstr "Συζευγμένο t-test..."
 
 msgid "One-way ANOVA..."
 msgstr "One-way ANOVA..."
@@ -2277,19 +2277,19 @@ msgid "Multi-way ANOVA..."
 msgstr "Multi-way ANOVA..."
 
 msgid "Single-sample proportion test..."
-msgstr "Τεστ αναλογίας Single-sample..."
+msgstr "Τεστ ποσοστού Single-sample..."
 
 msgid "Two-sample proportions test..."
-msgstr "Τεστ αναλογίας Two-sample..."
+msgstr "Τεστ ποσοστών Two-sample..."
 
 msgid "Two-variances F-test..."
 msgstr "Δύο διακυμάνσεις F-test..."
 
 msgid "Bartlett's test..."
-msgstr "Τεστ Bartlett's..."
+msgstr "Τεστ Bartlett..."
 
 msgid "Levene's test..."
-msgstr "Τεστ Levene's..."
+msgstr "Τεστ Levene..."
 
 msgid "Two-sample Wilcoxon test..."
 msgstr "Τεστ Two-sample Wilcoxon..."
@@ -2298,7 +2298,7 @@ msgid "Paired-samples Wilcoxon test..."
 msgstr "Τεστ Paired-samples Wilcoxon..."
 
 msgid "Kruskal-Wallis test..."
-msgstr "Τεστ Kruskal-Wallis..."
+msgstr "Τέστ Kruskal-Wallis..."
 
 msgid "Scale reliability..."
 msgstr "Αξιοπιστία κλίμακας..."
